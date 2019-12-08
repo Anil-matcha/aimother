@@ -88,7 +88,7 @@ def uploade_file_object():
 				rectangle = object['rectangle']
 				x,y,w,h = rectangle['x'], rectangle['y'], rectangle['w'], rectangle['h']
 		print(x,y,w,h)		
-		if x>950 and y+h<300:
+		if x<100 and y<450:
 			send_mail("in danger location", f.filename)
 			return render_template('upload_print.html', state="UnSafe")
 		else:		
