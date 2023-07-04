@@ -1,139 +1,1576 @@
 id,space_id,title,author_id,content_markdown,hidden,preview_image_id,preview_image_url,created_at,updated_at
-44644268,942819905,Blog: Wat betekent positiviteit voor de auteurs van Shit or Shine?,1609945838,"**De afgelopen twee maanden stonden bij Shit or Shine in het teken van positiviteit. Kijken naar wat wel kan en (leren) accepteren wat anders is. Wat betekent positiviteit voor onze auteurs en wat heeft het hen gebracht? We vroegen het Joke, Astrid, Sandrine en Elsbeth.**
+29566607,420415267,Email Invite Template,829834694,"On Wednesday I am going to ask all current members of Tracebook to invite 5 beta users. The invites should go to people who would benefit from Tracebook in their daily work. We want people who will upload, download, comment, and give good feedback. For these first invitations we would like to avoid inviting anyone directly affiliated with a manufacturer since this is not our intended audience.
 
-[Lees deze blog op ShitorShine.nl >>](https://shitorshine.nl/2022/10/31/wat-betekent-positiviteit-voor-de-auteurs-van-shit-or-shine/)
+This is roughly what I'll be sending out on Wednesday morning.
 
-![Positiviteit en Kanker pexels-matheus-bertelli-573238](https://shitorshine.nl/wp-content/uploads/2022/10/Positiviteit-en-Kanker-pexels-matheus-bertelli-573238.jpg.webp)",0,4413fad0-1288-413f-ae56-42368d6fa2cf_900_506.webp,https://static.peerboard.com/community-file/4413fad0-1288-413f-ae56-42368d6fa2cf_900_506.webp,2023-01-17T16:28:28+00,2023-01-17T16:28:36+00
-204431978,1811111832,Online Training: Fitter door Voeding,1609945838,"In deze volledige online training word je 10 weken begeleid. Je krijgt heel veel antwoorden op voedingsvragen, inzicht in je eigen eetpatroon en je kunt die vergelijken met wat je lichaam dagelijks nodig heeft. Ook leer je door middel van opdrachten hoe je gezonder met voeding om kan gaan. De recepten ondersteunen daarbij. Je ontvangt een werkboek waarin alle opdrachten staan en je je ervaringen en keuzes kunt noteren.
+> As a fellow speaker lover I want to invite you to be one of the very first beta testers of Tracebook. It's our new community for the open exchange of loudspeaker system reference data.
+>
+> 2020 was a crap year in many ways, so you might think of this as a Christmas present to the industry.
+>
+> Please keep this private for now!
+>
+> Your invite link: [https://trace-book.org/?r=](https://trace-book.org/?r=Lively-974)yourinvitecode
+>
+> Live Q&A Thursday at 11am CST: [https://us02web.zoom.us/meeting/register/tZMvcO-qqTwuGdDalVM6C8toPd3m6JAL-_g_](https://us02web.zoom.us/meeting/register/tZMvcO-qqTwuGdDalVM6C8toPd3m6JAL-_g_)",0,,,2020-12-16T18:21:38+00,2020-12-23T11:46:40+00
+72050867,1764308066,What roadblocks are keeping you from uploading measurements?,829834694,"Tracebook now has 48 members, but only 3 of them have uploaded measurements. 
 
-Het is laagdrempelig en op maat om kennis te maken met je eigen voeding en de mogelijkheiden. Door hieraan mee te doen ga je altijd gezonder eten, wat alleen maar goed is. 
+What's stopping you?
 
-Heb je al zin om mee te doen?
+What can we do to make the process easier, more clear, or more fun?",0,,,2021-02-05T21:08:27+00,2021-02-05T21:08:27+00
+74602157,1643718246,Change Log 2/17/21,829834694,"- Updated CSV parser should allow us to use many more flavors of CSV. Here's [an example of a CSV file](https://trace-book.org/measurement/eurolive-112d-eurolive-112d-) that, until today, would not be parsed by Highcharts. Thanks to Ben Hagle for updating the javascript with Papa Parse.
+- Slugs: No more trailing ""-"". If the Processing Preset of the Upload is set to NA, then that will be included in the slug. So the slug for Meyer Sound UPA-1P would be meyer-sound-upa-1p-na. It's not the prettiest solution, but seems better to me.",0,,,2021-02-18T00:40:08+00,2021-02-18T00:40:08+00
+111017085,401419744,"Calibrate to -12, 0, or something else?",829834694,"Merlijn raised the question today about whether the Tracebook Measurement Procedure should continue to calibrate its inputs to -12 or 0. Please see [the draft he proposed](https://www.dropbox.com/s/aqkixnvrzh97ij5/Tracebook_Procedure_RC1.3_211010.pdf?dl=0) on line 514-521.
 
-[Meer informatie >>](https://shitorshine.nl/fitterdoorvoeding/)
+The benefit of -12 is that we have been using it for almost a year now. The cost is complexity.
 
-![](https://d1aettbyeyfilo.cloudfront.net/shitorshine/30933596_1668697886EUiFitter_door_Voeding_Banner.png)
+The benefit of 0 is simplicity. The cost is retraining users.
 
-Training al gekocht? [Login in membership >>](https://shitorshine.krtra.com/c/TNsxZ2uWbdCp/gYlv)",0,,,2023-01-17T16:01:55+00,2023-01-17T16:14:41+00
-326061969,1702001048,Welkom bij de Shit or Shine Sparkle Club,1609945838,"Wist je dat 
+What are other sides of this?",0,,,2021-10-11T19:47:38+00,2021-10-11T19:47:38+00
+170944629,401419744,Measurement Procedure 201216,829834694,"Please take a look at the [procedure draft](https://u.pcloud.link/publink/show?code=XZCx58XZGgQiTuxAhIjpn6wx6UNiHQxRpbE7). What is unclear or could otherwise be improved?
 
-Introductie met waarde van deze community
+Keep in mind that this will be living document. It doesn't need to be perfect today.",0,,,2020-12-17T22:01:33+00,2020-12-22T09:30:01+00
+172013008,1985581965,Does Nathan Lively intend to monetize Tracebook?,682517670,"Removed on May 18 2021 until further notice
 
-Hoe zou je het vinden als... Wil je graag... ? Ervaar... 
+No! Tracebook is an independent, non‑profit initiative launched by members of the pro audio community, under Nathan's leadership.",0,,,2021-05-18T15:50:15+00,2021-05-18T15:50:15+00
+175099151,1643718246,Tracebook Training (next week),829834694,"# Build a Library of Actionable Data w/Tracebook
+
+At this interactive workshop you’ll learn how to build your own library of speaker measurements so that you can:
+
+- Perform regular maintenance to avoid show stopping surprises.
+- Prepare for shows by verifying phase compatibility and building crossover presets.
+- Make better decisions in the field.
+
+Bring your audio analyzer and a speaker to practice with!
+
+______
+
+WHERE: In person at the AV For You broadcast studio at 6190 Olson Memorial Hwy, Golden Valley, MN 55422. There will also be a Zoom meeting if you are unable to attend in person.
+
+WHEN: Sat, Jul 2, 2022 at 9:00am, that's 7am in LA and 3pm in London.
+
+TUITION: $22 general admission, +$8 for access to the Zoom recording
+
+Lunch is included. 
+
+Mask policy: optional for everyone who is vaccinated. Required for everyone else.
+
+[Enroll here.](https://nathanlively.as.me/tracebook)",0,,,2022-06-24T20:20:25+00,2022-06-24T20:20:25+00
+182017031,25721842,Behringer B1220 Pro,1149682999,"Looking for presets for these mains I own, I know they're cheaper brand but they sound good and were within my low budget, I use them with 2 QSC KW181 and power the tops with a QSC PLX 3402",0,,,2022-09-24T20:20:08+00,2022-09-24T20:20:08+00
+194934982,1770455539,Max SPL of Meas. Micropones,461200084,"Let us think about a place to keep track of Max SPL for Measurment Microphones.
+
+Max SPL is typically the RMS-value for sine waves @ 3% THD which means that Peak SPL = Max SPL + 3 dB
 
 
 
-**In deze community kun je...:**
+![](https://static.peerboard.com/community-file/ebd4c668-4779-4ebb-862a-97fc970be7bb.png)",0,c8b80a5b-2b8d-4a4f-8305-a925707a2fe8.png,https://static.peerboard.com/community-file/c8b80a5b-2b8d-4a4f-8305-a925707a2fe8.png,2020-12-17T22:07:01+00,2020-12-17T22:12:49+00
+213041963,25721842,Cardiod subs,1805760086,How do I get SubAligner to show stacked subs?,0,,,2023-05-06T17:43:39+00,2023-05-22T19:02:13+00
+223565519,25721842,How do SubAligner results compare with the L-Acoustics Preset Guide?,829834694,"The L-Acoustics Preset Guide is not only a valuable resource for subwoofer alignment, but is also one of my inspirations for creating SubAligner. If L-Acoustics can create alignment presets for their speakers then I should be able to scale the same method to any other speaker pair.
+
+It also provides a quality check for results from SubAligner: Do they match? Why or why not?
+
+[Find out here.](https://www.sounddesignlive.com/subaligner-vs-l-acoustics-preset-guide/)
+
+
+
+![](https://static.peerboard.com/community-file/a5e0f6cd-297b-42f3-9560-c7c8a80d6eca.jpg)",0,9266bcd5-6314-48c6-b881-6ae0fcacd36f.jpg,https://static.peerboard.com/community-file/9266bcd5-6314-48c6-b881-6ae0fcacd36f.jpg,2021-04-21T23:13:47+00,2021-04-21T23:13:47+00
+225956433,1985581965,"The industry already has ""laboratory grade"" manufacturer data. Why Tracebook's ""lesse",682517670,"As published - Monday May 18 2021
+
+Most manufacturers have dedicated facilities (such as anechoic chambers) in which their products are measured. While this approach produces—very ""clean""—high quality performance data, it makes it challenging for common users to verify loudspeaker performance in the field.
+
+Furthermore, since there are many different ways to measure loudspeakers and display the data, there exists some ambiguity when comparing data from one manufacturer with that of another.
+
+Tracebook—unambiguously—neither aspires nor pretends to facilitate ""laboratory grade"" data. Instead, it promotes complementary actionable reference field data, i.e.—data (within reasonable uncertainty) capable of being acted on—supplied by the community through multiple independent measurements and supported by a majority vote.
+
+
+
+Previous Version - Monday May 17 2021
+
+Part of our industry is based on a marketing‑driven economy where the kind of data—and how it is represented—affect sales. Some manufacturers may decide to publish, e.g., (over)simplified, incomplete, incomparable, or beautified data. As a result, manufacturer interests may lead to data which differs from field measurements that in turn cannot be validated.
+
+Tracebook—unambiguously—neither pretends nor intends to facilitate ""laboratory grade"" data. Instead, it promotes—complementary—actionable reference field data, i.e., data (within reasonable uncertainty) capable of being acted on, supplied by the community through multiple independent measurements and supported by a majority vote.",0,,,2021-05-17T18:14:29+00,2021-05-18T07:34:56+00
+230392388,1643718246,Change Log 5.22.21,829834694,"- Bug: Download links for Hack's d&b
+- Bug: IR peak not centered
+- Loudspeaker category is now automatically added as a tag when user clicks Submit, making the field searchable.
+- Removed video from index page.
+- If a user is logged out and clicks on a measurement on the index page, the Signup/Login popup is shown.",0,,,2021-05-22T22:43:51+00,2021-05-23T11:18:46+00
+238818609,1764308066,Attention SysTune Users,829834694,"Do you use SysTune?
+
+Can you help me figure out how to use SysTune with Tracebook?
+
+I see in the user manual that you should be able to export a text file of a transfer function, but I don't have a copy of the software myself to test it.
+
+Please help me out by converting the STO file [on this page](https://trace-book.org/measurement/coda-audio-hops8-hops8-1-way-fullrange) to a text or CSV file and let me know exactly what steps you took.",0,,,2021-02-22T15:45:15+00,2021-02-22T15:45:15+00
+244807094,420415267,Set status back to incomplete but record remains approved,682517670,"@Nathan, I changed my mind and changed the secondary slot for this record
+
+[https://trace-book.org/measurement/jbl-eon-615-main](https://trace-book.org/measurement/jbl-eon-615-main)
+
+back to ""incomplete"". However, the record's status remains ""approved"".
+
+Please advise?",0,,,2021-03-03T11:04:45+00,2021-03-03T11:04:45+00
+251864029,420415267,Kalle's coda ready to moderate,829834694,"After spending a bunch of time making CSV files for Kalle's Coda speakers, they are ready to moderate. I have marked them all as approved. The only one still missing a file is: CODA Audio SCV-F with SCV Omni 70 preset
+
+The traces aren't perfect, but I'm sick of looking at them. I also tried to upload their IRs, but the files are too big and they make the website crash.",0,,,2021-03-03T22:10:26+00,2021-03-03T22:10:26+00
+255491585,420415267,Change Log 2/10/21,829834694,"- Added People to the Search page based on Ian's suggestion. Users can opt out on their profile settings page.
+- Tested Firefox and Safari based on a bug report from Ian. I could not recreate the error. Maybe someone else could test this on their end.
+- Added a Leaderboard to track our contest winners.
+- Moderation: The approval status dropdown is disabled if you are the measurement creator, the dropdown is not empty and you were not the last to change it, or you are already moderator 2 and you click on the dropdown for moderator 1 or vice versa.
+- Email notifications to admins are now only sent when status is Pending, suggesting that it still needs to be moderated.
+- Changed the Product Thumbnail so that it must always be uploaded. I have attempted to add functionality that would search the database for any matching speakers that have been previously uploaded to use their thumbnail, but it wasn't working well and it was getting more and more complex. I'll look at this again in the future when we actually start to get some duplicate uploads.
+- Added system latency finder to Upload page, no long requiring the user to link out to Merlijn's calculator.
+Please test them out the let me know what you think.",0,,,2021-02-10T23:56:26+00,2021-02-10T23:56:26+00
+261182462,1053887597,Hello,1469751030,"- Hello, I am Kalle and I am a new member of Tracebook. Thank you for inviting me.
+I will upload some files of Coda Audio speakers, enjoy it",0,,,2021-02-20T16:01:22+00,2021-02-20T16:01:22+00
+265594368,25721842,Should SubAligner offer an alternative method to measure distance?,829834694,"Measuring accurate distances in sun light with a laser can be hard. High quality rangefinders can be cost prohibitive.
+
+Should SubAligner offer an alternative method to measure the distance from FOH to the main array?
+
+For example, if you stand under the main array then you could 
+
+1. Measure its height.
+2. Measure the distance to FOH. 
+3. Look up the height of a single box on its spec sheet.
+4. Enter the total number of boxes in the array
+
+And SubAligner can estimate the distance from FOH to the middle of the array.
+
+This might be the pop-up window in the app:
+
+![](https://static.peerboard.com/community-file/321c4107-e8e6-487d-8531-b69637d78701.jpg)
+
+Would that be easier or faster than trying measure the distance directly?
+
+What do you think?",0,55db044c-de44-417a-bf38-763e0a646cd1.jpg,https://static.peerboard.com/community-file/55db044c-de44-417a-bf38-763e0a646cd1.jpg,2021-09-26T23:53:47+00,2021-09-26T23:53:47+00
+269250540,1643718246,Tracebook is 1 year old! (and your feedback),829834694,"A huge thank you to everyone who has supported the project so far.
+
+- 133 approved measurements
+- 876 members
+
+What can we do better? What is one new feature or change you'd like to see?
+
+You might consult [the product roadmap](https://goesto11.peerboard.com/post/850951026) for ideas.
+
+![](https://static.peerboard.com/community-file/b19d4f1e-84f5-49ad-a38e-a4f215e82e4b.jpg)",0,be8a5e12-07d6-4a7b-97fd-17efeecc18ad.jpg,https://static.peerboard.com/community-file/be8a5e12-07d6-4a7b-97fd-17efeecc18ad.jpg,2022-01-20T00:52:58+00,2022-01-20T00:55:47+00
+271060164,1974815518,UPDATE: d&b J-series,829834694,"Based on a request from Mark in New Zealand I have added the d&b J-series to SubAligner. This includes J8, J12, J-SUB, and J-INFRA with their various processor settings. 
+
+This brings the total possible variations to 17,537.
+
+If you'd like me to add a speaker, you can [request it here](https://goesto11.peerboard.com/post/1880893357).
+
+![](https://static.peerboard.com/community-file/1c16f9c1-3df8-4a4b-ad3f-0a0189e2f4da.png)
+
+
+
+![](https://static.peerboard.com/community-file/d3d22d26-16de-48bc-83de-2ee05a035488.png)
+
+These results are in good agreement with what I can see in ArrayCalc, but I still need more people to verify them in the field.
+
+![](https://static.peerboard.com/community-file/abf2a225-bf29-43fe-b2f5-806eb9b8983a.png)",0,511e0003-58c3-4a04-8bdd-ac2ef389db28.png,https://static.peerboard.com/community-file/511e0003-58c3-4a04-8bdd-ac2ef389db28.png,2021-02-12T16:13:29+00,2021-02-12T16:45:58+00
+303174024,401419744,Start by creating an HF aim target?,829834694,"Hey guys, I have been teaching a class to DIY speaker builders and what I am having them do is to always start by measuring their speaker on a table or stand to create an HF target. That way, when the speaker goes onto the ground they have something to aim for instead of simply ""maximum HF"".
+
+I suggest that we build this into the TB procedure because HF drop-off is the #1 problem due to non-specular floors or bad aim.
+
+Here is the video I made for my students. It is a paid class so please don't share publicly.
+
+
+
+![](https://youtu.be/n5Rqv10YSQs)",0,,,2021-12-01T20:59:10+00,2021-12-01T20:59:19+00
+332367601,420415267,Live Sound Summit talk outline,829834694,"I created an outline for the talk that Cesar, Arthur, Ian, and I will present. We'd like to get some new people excited about the project. Please make suggestions.
+
+[Google Doc](https://docs.google.com/document/d/1bSE2FF-X66rbIURp8O0GPcyyXvupGOiZTaOfhpaaozs/edit?usp=sharing)",0,,,2021-05-27T22:47:35+00,2021-05-27T22:48:16+00
+350435286,25721842,Jbl HLA 4895 and 4897A,243461043,"hi, anybody added those already? Regards",0,,,2022-01-02T21:17:53+00,2022-01-02T21:17:53+00
+351749659,420415267,moved Change Log to public,829834694,I have started publishing the Change Log to the public category. Hopefully it will be motivating for people to see our updates.,0,,,2021-02-18T00:40:59+00,2021-02-18T00:40:59+00
+354451426,1974815518,Upload your own speakers directly to SubAligner,829834694,"One of the most requested features for SubAligner has been the ability to upload your own speakers to the app. Now you can!
+
+Any time you choose **ADD NEW** from the list of available speakers, it will open the [Upload page](https://app.subaligner.com/upload) where you can add as many measurements as you like.
+
+What do you think?",0,,,2022-02-10T21:51:40+00,2022-02-10T21:51:40+00
+400522307,1643718246,Change Log 4/3/21,829834694,"- Environment & Conditions: Section moved to top. User can check whether they are inside. If they are, SRMx4 is displayed on magnitude graph. 
+- Medals: Gold, Silver, and Bronze medal status is now awarded to those measurements that meet the minimum measurement distance standard. I couldn't figure out an easy way to convert between units entered for loudspeaker dimension and those entered for measurement distance. For a temporary solution, the measurement distance units field is disabled and will always match the loudspeaker dimensions units.
+- And for Cesar...
+
+
+
+![](https://static.peerboard.com/community-file/0f064439-253a-4473-8258-91baf783d577.png)",0,2b5065e7-e60c-4382-b09b-28e7cb2bc344.png,https://static.peerboard.com/community-file/2b5065e7-e60c-4382-b09b-28e7cb2bc344.png,2021-04-03T21:35:01+00,2021-04-03T22:45:30+00
+406015181,420415267,Questions for the public FAQ,461200084,Please populate with questions for the site's public FAQ,0,,,2020-12-22T09:25:34+00,2020-12-23T11:45:42+00
+468037730,420415267,Your feedback on quick start videos outline,829834694,"Next week I’m going to film a couple of short videos for TB on how to do calibrated and uncalibrated measurements so that we have something up-to-date on the Upload page before Live Sound Summit. 
+
+Steve has offered to create something more coherent so these will be temporary.
+
+I did put together a short outline and it would be great to get your feedback: [https://docs.google.com/document/d/1KzQVVOBdQbNcVt2Wr3p72s2I3WnAaLSIhRKEs60SKAY/edit?usp=sharing](https://docs.google.com/document/d/1KzQVVOBdQbNcVt2Wr3p72s2I3WnAaLSIhRKEs60SKAY/edit?usp=sharing)",0,,,2021-05-14T16:44:14+00,2021-05-14T16:44:14+00
+477368114,420415267,How do we get to 100 beta users?,829834694,"Hi Everybody!
+
+I hope everyone is having a nice holiday.
+
+The beta invite process is going slow. In the last 5 days about 12 people have signed up. I can ask everyone to make 5 more invites, but I'm not sure if that will do it.
+
+**Why am I pushing for 100?**
+
+There are a very small number of people who have the time, resources, and motivation to make measurements based on our procedure and upload them to the site. These are our VIP early adopters. If we say that a conservative estimate is that 1% of all beta users will be one of these unicorns, then we need to invite at least 100 people to find 1 of these early adopters.
+
+**How do we get there?**
+
+My first impression is that we need to keep doing direct outreach to people who we think are most likely to be early adopters. This will increase our chances.
+
+Maybe we give that a try for another week? And then what? Something bigger? Maybe we start inviting 10 or 20 people at a time until we get to at least 100?
+
+**Why am I in a hurry?**
+
+My main concern right now is keeping your interest as our moderators and founding members. If Tracebook starts to generate activity, you are more likely to keep participating. If no one is using it, you'll loose interest.
+
+So what do you think? **What have you been hearing from the people you've been inviting.**
+
+None of my invites have committed to upload anything. They all think the site is nice, but don't really seem motivated to do the measurements.",0,,,2020-12-28T16:44:33+00,2020-12-28T16:44:33+00
+478721699,1974815518,Change Log June 2022,829834694,"# SubAligner now offers:
+
+- Nexo S1210, PS8, and RCF HDL10
+- 69,699 speaker combinations
+- 209,252 transfer function files (REW, SATlive, Crosslite, Open Sound Meter, Smaart© compatible).
+
+# Change Log
+
+- Fixed missing field labels
+- Fixed wild gain errors
+- Fixed NaN values in some URLs
+- Migrated to new Email server
+
+
+
+![](https://static.peerboard.com/community-file/60821d76-6784-4d9f-9165-2625e9eadd3a.png)",0,82c24f2a-5596-41b2-81fd-dcf91b5e4b47.png,https://static.peerboard.com/community-file/82c24f2a-5596-41b2-81fd-dcf91b5e4b47.png,2022-06-22T14:15:50+00,2022-06-22T14:42:47+00
+498160566,420415267,Friendly Reminder of Min. Distance,682517670,"Fellow moderators,
+
+Here's a friendly reminder that we really need to evangelize the minimum distance. I see many records where measurements were made either too far or too close.
+
+It is easy to obsess over, and trying to meet the ripple criterion of 6 dB or less while forgetting to respect the minimum distance.
+
+If we forget, I have concern that—once we go public—many measurements will be disqualified by the oppsosition for having been made too close.",0,,,2021-03-05T09:00:16+00,2021-03-05T09:00:16+00
+534694672,401419744,Preflight Checklist,829834694,"I want to add the preflight checklist to the Upload page. 
+
+Does this look good?
+
+✅ I have compared my measurement to a spec sheet or GLL file.
+
+✅ I have compared my HF response to a spot-check measurement made away from the floor.
+
+✅ I have a photo showing the microphone, speaker, and nearby boundaries.",0,,,2022-06-20T22:36:52+00,2022-06-20T22:36:52+00
+544792156,1974815518,Change Log 6/10/21,829834694,"- **New speaker models:** d&b Y12, Y8, Y10P, KSL8, and Adamson S10p, S7p.
+- **Better file downloads.** After struggling through a few different location, all files for the Download Results pop-up will now live on Amazon S3. It's a better long term solution. If you discover any files that do not download, please let me know.
+- **Improved accuracy and speed.** After consulting with a real mathematician I discovered that the results in subAligner could be improved and speed up. I'm happy to tell you more about that if you're interested, but the end result is that each alignment solution can be calculated in about 4 seconds instead of 20 seconds. I'm interested in this speed for a future time when subAligner might execute on server in real-time while you wait instead of being pre-calculated ahead of time. This would then allow you to upload your own measurements to run an alignment on them in the field.",0,,,2021-06-10T18:38:10+00,2021-06-10T18:38:10+00
+552890377,1764308066,RCF HDL10-A Carpet vs Tile,1353114646,"I made an attempt to capture my RCF HDL10-A speakers for Tracebook (part of an installed system at my church, so can't take a unit down very often). My room is 120' x 100' so I have plenty of space to capture the data indoors, but the floor surface is carpet. When I captured other speakers in the past I was encouraged to use a reflective surface like a tile under the microphone to increase high frequency data quality. For reference I decided to try and both options, carpet and tile (4x floor tiles placed together to achieve the recommended 30x60 tile size). After reviewing both readings I am now more confused as to whether either is is the more accurate reading given they are so different (blue trace carpet, green trace tile). From 20Hz - 1k phase is within 30º, but at 2k it swings to 100º difference. Cohearence is pretty identical between the two, but there is a huge difference in phase and magnitude, at 12K there is a 12dB difference. System info as follows:
+
+Speaker settings: RCF HDL10-A - Far, 4-6 cluster, High Curving On, Indoor (the current settings for my hang), Gain: Unity (12 o-clock)
+
+Distance and delay: 2.45m - 16.15/16.27ms
+
+Mic & Audio Interface: DBX RTA-M, UA Arrow (Gain: 42dB, Monitor Out -8, SMAART out: -10dB)
+
+![](https://static.peerboard.com/community-file/22576efd-17f0-41d4-9225-dbcf145a2d4f.png)
+
+
+
+![](https://static.peerboard.com/community-file/2daecfe7-5df6-43fc-ae4a-02ad29a77835.jpg)
+
+
+
+![](https://static.peerboard.com/community-file/23388760-5001-4528-965e-819ea217f3c1.jpg)
+
+
+
+![](https://static.peerboard.com/community-file/455b3795-3143-4d5e-b4f9-6667f0fdba10.jpg)",0,9a24da1b-fa82-4f76-9f1e-9a12804afe28.png,https://static.peerboard.com/community-file/9a24da1b-fa82-4f76-9f1e-9a12804afe28.png,2022-03-23T15:44:38+00,2022-03-23T15:44:38+00
+579942814,308303758,Downloading Traces on MacOS,626602166,"If u want to use traces from tracebook on MacOS then make sure u download the .CSV files
+
+with Chrome browser instead of Safari.
+
+Safari will download it to .CSV.XLS instead of .CSV
+
+I struggled with this and found the issue while asking Nathan for help.
+
+
+
+![](https://static.peerboard.com/community-file/8d8c3436-6199-436e-b9f8-8e0a22f54271_609_125.png)",0,d0258cc4-699b-48fd-bb7d-93c84795befa_609_125.png,https://static.peerboard.com/community-file/d0258cc4-699b-48fd-bb7d-93c84795befa_609_125.png,2022-08-23T21:31:40+00,2022-08-23T21:31:40+00
+584291457,420415267,"Add ""Windscreen"" field",682517670,"Based on Nathan's outside measurements from—yesterday May 19—I was thinking we should add a ""Windscreen"" field to the ""Measurement Equipment"" section of the upload form. A simple checkbox would suffice. Besides the obvious evidence in the photo, future records would now also state if a windshield was used or not.
+
+Thoughts?
+
+Motivation, windwhields invariably roll-off HF, and therefor it is prudent to flag 
+
+![](https://static.peerboard.com/community-file/7bf421e5-3477-4f39-a578-733b979f9ccb.png)",0,539e970e-e99a-4571-9ca4-fbfc29a62836.png,https://static.peerboard.com/community-file/539e970e-e99a-4571-9ca4-fbfc29a62836.png,2021-05-20T08:40:36+00,2021-05-20T08:40:36+00
+585811975,401419744,Quick Start video - first draft,829834694,"I put together an initial edit of the new quick start video. If the content looks ok I'll add some text overlays.
+
+I realize that there are a few errors. For example, I forgot to disable smoothing before export to ASCII, but I plan to correct those with some text overlays.
+
+Looking forward to your input. PLEASE KEEP THIS PRIVATE.",0,,,2021-06-01T20:48:15+00,2021-06-03T21:32:14+00
+589097628,1974815518,SubAligner lifetime giveaway,829834694,"Until the end of 2021, anyone who uploads a moderator-approved measurement to Tracebook will receive lifetime access to SubAligner.
+
+Value: $3,600
+
+Drivers, start your engines.
+
+
+
+![](https://static.peerboard.com/community-file/c037625c-54e0-458b-a740-6bbe8ea991c1.jpg)",0,adb19eb7-91e3-4e0d-8fe2-e11be878660d.jpg,https://static.peerboard.com/community-file/adb19eb7-91e3-4e0d-8fe2-e11be878660d.jpg,2021-08-12T19:10:40+00,2021-08-12T19:10:40+00
+619530269,1764308066,Tracebook Feature Request,829834694,"What features would you love to see in Tracebook? Vote on other requests below.
+
+Please check the [Product Roadmap](https://goesto11.peerboard.com/post/850951026) first. Maybe we're already working on it. :)
+
+If you have a bug to report, contact me directly at [nathan@trace-book.org](mailto:nathan@trace-book.org) with the exact steps you took so I can replicate it.",0,,,2020-12-21T17:42:31+00,2020-12-23T22:56:04+00
+638371733,1643718246,Can I download curves that may be used,502512585,Can I download curves that may be used,0,,,2022-10-30T14:12:20+00,2022-10-30T14:12:20+00
+647714051,1974815518,Video Walkthrough for new users,829834694,"What do you think?
+
+![](https://youtu.be/vSCiohTQS4U)",0,,,2021-02-17T16:12:18+00,2021-02-17T16:12:18+00
+659967738,25721842,Question,855815643,Is there any chace of getting EAW KF 300e and   apogee sound ae-12s2 added to sub aligner?  Thank you.,0,,,2021-12-08T01:02:10+00,2021-12-08T01:02:10+00
+667814586,1053887597,Hello!,1050642591,Hola,0,,,2021-01-13T21:11:23+00,2021-01-13T21:11:23+00
+672922052,25721842,Do you have access to Kara?,829834694,"And would you be willing to measure one for me?
+
+I've had trouble tracking these down in Minneapolis. 
+
+If so, please follow the Tracebook measurement procedure and get as many DSP presets as are currently available.",0,,,2021-07-29T15:13:32+00,2021-07-29T15:13:32+00
+707968134,420415267,Tracking Social Sharing,829834694,"I'm creating this thread to help me/us keep track of where Tracebook has been shared so that we can support each other's posts and also what's generating the most engagement.
+
+- Sound Design Live FB page: [The Public Library of Loudspeaker Measurements](https://www.facebook.com/sounddesignlive/posts/4169468249805624), [First upload from a manufacturer](https://www.facebook.com/sounddesignlive/posts/4398163970269383)
+- Merlijn: [ground plane measurements](https://www.facebook.com/merlijn.vanveen/posts/376445190526176?__cft__[0]=AZWOeIQHswVOd_QMpSq8jC2ZjfFfQaN6mypYiwm-OCqzkz0GTGeOm2qszOpg0VhQw_blUCOoo43S7cRjwABCQhPACDAK68mEa-cgBcVxi7oBTtiCLpZ3kD1OcNJY0vTTnArDPog_ztw2r38qd-Rs3pZE&__tn__=%2CO%2CP-R), [How I wish](https://www.facebook.com/merlijn.vanveen/posts/369178724586156?__cft__[0]=AZVzKrInEoTEqvr2HoNCV-MPS3hw8i_lQ8I_zPbh8e9iRTnWdtK1clWNUvL-VES58CO76igwz29IocPP7uOu7CH_vacxgmr4fBp56jp7VIv--4G46LE5QAp3_GGlfk2rUj_5nbaP_65D9170s65mq1XU&__tn__=%2CO%2CP-R), [multiple independent measurements](https://www.facebook.com/merlijn.vanveen/posts/396664345170927)
+- Merlijn: [First pair of independent measurements of same loudspeaker](https://www.facebook.com/merlijn.vanveen/posts/396664345170927), 09-05-21
+- Live Sound Engineers: [I built a site for](https://www.facebook.com/groups/170679119633264/posts/4666695853364879/), 
+- Signal to Noise Facebook group: [Sharing (speaker reference data) is caring.](https://www.facebook.com/groups/signaltonoisepodcast/posts/667727297585260/)
+- Reddit: [I built a site for](https://www.reddit.com/r/livesound/comments/p7g61i/i_built_a_site_for_us_to_share_speaker_reference/)",0,,,2021-08-19T14:20:10+00,2021-12-21T22:08:07+00
+712401838,25721842,How to align flown and ground subwoofers using SubAligner,829834694,"In this design the ground subs are fills, supplementing the main flown array for the first rows of the audience. We can align to the mains or the subs, but not both. I decided to align sub to sub since the greatest amount of the operating range will be affected and because the center position of the flown sub array approximates the acoustic center of the entire flown system (flown mains + flown subs).
+
+![](https://youtu.be/bIxqjRgzxWE)
+
+SubAligner
+
+[https://www.subaligner.com/](https://www.subaligner.com/)
+
+The Complete Guide to Measurement Microphone Placement for Subwoofer Alignment 
+
+[https://www.sounddesignlive.com/the-complete-guide-to-measurement-microphone-placement-for-subwoofer-alignment/](https://www.sounddesignlive.com/the-complete-guide-to-measurement-microphone-placement-for-subwoofer-alignment/)",0,,,2022-01-07T23:50:34+00,2022-01-07T23:50:34+00
+715419326,1974815518,I'm giving away a Leica DISTO X4,829834694,"It's got some pretty sweet features:
+
+- designed for bright, outdoor environments
+- 150m (500ft) range
+- Pointfinder camera
+- Bluetooth technology enable transfer of measurements to FREE DISTO Apps
+- Very robust, drop tested to 2m, waterproof
+
+$500 value
+
+[https://www.sounddesignlive.com/giveaways/leica-disto-x4-giveaway/](https://www.sounddesignlive.com/giveaways/leica-disto-x4-giveaway/)",0,c620962d-ced8-432c-9c7b-eee01c4ed691_900_471.jpg,https://static.peerboard.com/community-file/c620962d-ced8-432c-9c7b-eee01c4ed691_900_471.jpg,2023-01-25T23:12:21+00,2023-01-25T23:12:21+00
+727800215,420415267,Please moderate my new uploads,829834694,"It looks like the daily moderator email is not working properly. While I am debugging it, please check [https://trace-book.org/admin](https://trace-book.org/admin) once a week to see if there are any new messages or pending measurements. 
+
+
+
+![](https://static.peerboard.com/community-file/ec938764-6797-4d8b-a12e-6d93a272de79.png)
+
+Pending
+
+
+
+![](https://static.peerboard.com/community-file/680c3ca9-0e35-4c8d-8f9a-69e2d7a13c9f.png)",0,152cb55b-5596-42f7-813a-36acee2293cb.png,https://static.peerboard.com/community-file/152cb55b-5596-42f7-813a-36acee2293cb.png,2020-12-24T14:52:56+00,2020-12-24T14:52:56+00
+763838861,401419744,Game of Hot & Cold,682517670,"Based on recent uploads, I made an animated GIF to illustrate the Game of Hot & Cold, where users should rock line array elements back and forth until HF output is maximized.
+
+
+
+![](https://static.peerboard.com/community-file/b5658701-bb10-45da-b34d-f835dc6d891b.gif)",0,,,2021-04-01T21:25:12+00,2021-04-01T21:25:12+00
+775489266,420415267,Should we approve uploads with aiming problems?,829834694,"I think this measurement is mostly fine, but one problem is the phase around the crossover. I believe this indicates that it was not properly measured on-axis? Is that the case? If so, should I ask Steve to measure it again? 
+
+[https://trace-book.org/measurement/srx-715f-srx-715f-no-dsp](https://trace-book.org/measurement/srx-715f-srx-715f-no-dsp)",0,,,2021-01-17T21:15:33+00,2021-01-17T21:15:33+00
+793474729,308303758,Record Naming Convention,829834694,"For loudspeaker names, stick with the official name—as used by the manufacturer—and avoid adding any language of your own.
+
+Check if your particular model name is available from the drop-down menu prior to adding a new model name.
+
+To distinguish between multiple records of the same loudspeaker using, e.g., diffferent presets, make use of the ""comments"" field of the upload form (see below).
+
+![](https://static.peerboard.com/community-file/a49d74ea-ebd6-4148-91e1-93cc869aa808.png)
+
+This way, the main landing page—featuring the index—will stay nice a clean while still letting users see any differences at a glance.
+
+![](https://static.peerboard.com/community-file/cd930e6b-d6f8-454e-8b65-ddd5aed94a21.png)",0,f53b8564-b6f5-47c6-8221-8494fcca8dc0.png,https://static.peerboard.com/community-file/f53b8564-b6f5-47c6-8221-8494fcca8dc0.png,2021-02-25T20:27:43+00,2021-05-20T16:42:44+00
+796615763,1974815518,"45,884 speaker combinations",829834694,"The SubAligner app now includes 45,884 possible speaker combinations and 1,001 users.
+
+A big thank you to everyone who has send me helpful feedback so far. Let's keep it going!
+
+[Here's a direct link to a Kudo+SB28 alignment.](https://app.subaligner.com/?a=1636305912966x368661538571550700)
+
+![](https://static.peerboard.com/community-file/c76ead69-4046-449f-9d19-d7746b54b37f.png)
+
+
+
+![](https://static.peerboard.com/community-file/5f60cdca-4d6f-4f60-84f7-3790f485e470.png)",0,87a1b681-71c1-4542-ad71-57f8b8376964.png,https://static.peerboard.com/community-file/87a1b681-71c1-4542-ad71-57f8b8376964.png,2021-11-07T17:42:28+00,2021-11-07T17:42:28+00
+811832280,1764308066,Poorly Performing HF Driver?,1353114646,"Nathan suggested I ask this question given the unusual results. I was capturing a Mackie Thump15 1000W for Tracebook, and based off the date captured and frequency response listed in the [Mackie manual](https://loudaudio.netx.net/portals/loud-public/#asset/9285/viewer/document) I now have my doubts about the quality and performance of the HF driver in the speaker. The details of the capture are:
+
+SMAART, Universal Audio Arrow interface and DBX RTA-M
+
+Mic distance from speaker: 2.19m (7’ 2¼”)
+
+Delay: 12.9ms
+
+Pink Noise: -12dB
+
+Speaker Gain: U
+
+Universal Audio Arrow Monitor output: -8dB
+
+Screenshots of SMAART capture, and Mackie Manual Frequency Response
+
+![](https://static.peerboard.com/community-file/c53844c7-0843-4b84-a7ea-5827971c9314.png)
+
+
+
+![](https://static.peerboard.com/community-file/5af4fdbb-22cb-4067-8b65-1357efba25e6.png)
+
+![](https://static.peerboard.com/community-file/de429c92-76eb-4339-a116-a80bf4605e1a.jpg)",0,ae7979e2-b447-4e4c-88c7-c2678497a519.png,https://static.peerboard.com/community-file/ae7979e2-b447-4e4c-88c7-c2678497a519.png,2021-08-11T19:38:12+00,2021-08-11T19:38:12+00
+821386689,308303758,"Examples: Approved, Incomplete",829834694,"Please be sure to follow the [measure procedure](https://goesto11.peerboard.com/post/928726115). Here are some helpful examples of how uploads are moderated.
+
+## Approved:
+
+- [QSC K12](https://trace-book.org/measurement/qsc-k12-normal): low ripple, high coherence, measured beyond minimum distance
+
+## Incomplete:
+
+- [Focal CMS50](https://trace-book.org/measurement/focal-cms50): high quality data, but measured too close
+- [Nexo Ls1200](https://trace-book.org/measurement/ls1200-ls1200-dsp-off): high ripple, low coherence, measured too close",0,,,2021-03-21T18:51:28+00,2022-12-05T14:31:21+00
+843584466,2066759160,SysTune,829834694,"Systune does not export Coherence data (but please upload a screenshot to Additional Files), but you can export magnitude and phase. Here are the steps.
+
+1. Export upper graph to text
+2. Export lower graph to text
+3. Open both in Excel (or Google Sheets)
+4. Data tab > Text to Columns. Use space as the delimiter.
+5. Now you have everything in separate columns so you can combine them into a single file with 3 columns: Frequency, Magnitude, and Phase.
+6. Select the Phase column and set format to Number. Otherwise the phase is in Scientific Notation.
+7. Save As CSV",0,,,2021-03-02T00:53:32+00,2021-03-08T16:29:42+00
+850951026,1764308066,Tracebook Product Roadmap,829834694,"Hi Everyone!
+
+This is a living document to give you a clear view on what we're working on, what we're about to work on, and what we're thinking about working on. I hope you enjoy the peek behind the scenes. :)
+
+If you have feature requests, post them here.
+
+# Done!
+
+- Pages: Index, Measurement, Upload, Profile, Profile Settings, Email Confirmation, Admin
+- Decode WAV file on front end for HighCharts
+- New user single sign on for forum
+- Open current measurement in SubAligner
+- Referral system
+- Draft version of measurement procedure
+- Invite first round of beta users
+- Calculate system latency on the Upload page
+- Invite all manufacturers to participate.
+- Manipulate delay, polarity, level, and coherence blanking of data.
+- Crosshairs on the measurement plot.
+
+# In Progress
+
+These are under construction.
+
+- Decode audio file on backend
+- Loudspeakers are searchable by Market and Frequency
+
+# Exploring
+
+This is a list of interesting ideas. We haven't committed to them yet, but we're eager to see if they resonate with you.
+
+- Include website metrics
+- Include other types of measurements beyond solo on-axis elements: arrays, in-situ, off-axis
+- Convolution: listen to your own source material through the speaker using the IR
+- Funding: how do we pay for this thing?
+- Tighter integration between the forum and discussion on Tracebook so that activity is mirrored.
+- Change log for every measurement.
+- Export manipulated data.
+
+# Leaving It For Now
+
+These are ideas we explored but decided not to pursue for the time being.
+
+- Multi-element arrays and in-situ measurements - It's a good idea, but currently out of the scope of the project. Let's look at it again after we have worked out the entire measurement and upload procedure for single elements.",0,,,2020-12-21T17:40:12+00,2022-01-20T00:57:00+00
+853791309,420415267,Acceptable ripple @Ian,829834694,"Hey Ian, I'm going to go ahead and mark this one as acceptable. I do think that Hui will measure it again and I would also like to see less ripple, but it is within the acceptable ripple of 10dB. If you disagree, please go ahead and leave your status set to incomplete and maybe we can get another moderator to weigh in here. :)
+
+[https://trace-book.org/measurement/l-acoustics-sb28-sb2860](https://trace-book.org/measurement/l-acoustics-sb28-sb2860)",0,,,2021-08-25T14:36:17+00,2021-08-25T14:36:17+00
+878861032,1053887597,Newbie,1627105123,As per Nathan's instructions......Hola!,0,,,2021-01-04T21:58:20+00,2021-01-04T21:58:20+00
+890685972,420415267,Should we make our summit presentation public?,829834694,"Do you think that our presentation at Live Sound Summit was good enough that we should make it public? Or maybe you think we should schedule another one that is live and public?
+
+Here's a direct link to the unlisted video on YT. Please keep this private.
+
+
+
+![](https://youtu.be/UJgcZaknEbM)",0,,,2021-06-23T16:11:31+00,2021-06-23T16:11:31+00
+891954435,1053887597,Hello!!,1210548786,Hola!,0,,,2021-01-14T00:08:59+00,2021-01-14T00:08:59+00
+897039674,420415267,New FAQ videos outline,829834694,"I'm planning a new video to cover some of the questions I've been getting. Please let me know what you'd like me to add/change.
+
+- Input calibration: More than one person has been calibrating their inputs and then attenuating their amplifier levels because it is unclear that the sig gen level can be adjust after calibration.
+- Amp gain: Amplifer levels need to be documented. Tracebook recommends operating the amplifers at full with appropriate limiter protection for repeatability. 
+- Aim: If your VHF has a strange/steep slope up or down, it may not be properly aimed. Compare to manufacturer GLL or Tracebook or put the speaker on a stand and measure from 1m. Carpet may be a problem!
+- Smaart export: Disable coherence blanking and smoothing.",0,,,2021-09-22T22:30:47+00,2021-09-22T22:30:47+00
+899645348,420415267,Would you be willing to update the list of models?,829834694,"At this point we have a big list of loudspeaker, amp, and DSP brands, but few models. If you are familiar with some of these brands, would you please add some of their models. This way we'll have a more complete list ready for the first users.
+
+
+
+![](https://static.peerboard.com/community-file/8bfd7398-9e37-457f-b109-fc805cea6927.png)",0,8324fdd1-55cd-4d67-a408-efac123bdc36.png,https://static.peerboard.com/community-file/8324fdd1-55cd-4d67-a408-efac123bdc36.png,2020-12-14T22:32:39+00,2020-12-23T11:48:14+00
+910040924,1974815518,"new L-Acoustics models (K3, 115XT, X8)",829834694,"## Happy new year!
+
+- SubAligner now includes almost every L-Acoustics speaker model except for: K1, Kiva II, V-DOSC, A15, X4i, 5XT, and X12. If you have access to these speakers, I'd love it if you would measure them for the app.
+- 55,856 total speaker combinations.
+- 223,424 transfer function files (REW, SATlive, Crosslite, Open Sound Meter, Smaart© compatible).
+
+## New Q&A video series!
+
+How to align flown and ground subwoofers using SubAligner
+
+[https://youtu.be/bIxqjRgzxWE](https://youtu.be/bIxqjRgzxWE)
+
+How do I get my speakers into SubAligner?
+
+[https://youtu.be/_DowIVZC6Pk](https://youtu.be/_DowIVZC6Pk)",0,,,2022-01-13T17:04:02+00,2022-01-13T17:04:02+00
+920120156,25721842,KW 153 and SB1000 subs,1303295553,"Can someone add EAW sb1000 sub and QSC KW 153 to sub aligner
+
+Thanks",0,,,2022-03-29T22:32:10+00,2022-03-29T22:32:10+00
+920212499,308303758,Latency Finder,829834694,"The ""Latency Finder"" feature on the upload form only works when both measurements are made exclusively on‑axis to the HF transducer. Even when it appears to make the crossover look FUBAR.
+
+At higher frequencies you have the best chance of accurately measuring a level offset as a function of distance by virtue of keeping the room out of the measurement.
+
+For Latency Finder to work, the level drop must be caused solely by distance, i.e., 1/r law (6 dB‑per‑doubling‑distance)—without any angular attenuation—i.e., attenuation as a function of measurement angle (with respect ot the loudspeaker) rather than distance.
+
+If a loudspeaker uses no Digital Signal Processing (DSP), significant latency is highly unlikely.",0,,,2021-02-25T20:48:17+00,2021-05-20T16:42:57+00
+928726115,1764308066,Tracebook Measurement Procedure,829834694,"Click [here](https://www.dropbox.com/s/38wuxg0m9xngqxj/Tracebook_Procedure_RC1.4_220618.pdf?dl=0) to download the latest draft of the Tracebook Measurement Procedure.
+
+Release Candidate 1.4 - Rev. 220618
+
+If you have any questions, please comment below.",0,,,2020-12-20T22:48:41+00,2022-06-19T15:13:11+00
+930563468,401419744,Release Candidate 1.1 - Rev. 201223,461200084,"Fellow moderators,
+
+Click [here](https://www.dropbox.com/s/6a2g1mwaqrcuj4b/Tracebook_Procedure_RC1.1_201223.pdf?dl=0) for the latest version of the procedure. Now that we are in ""beta"" it is also available on the public facing forum.",0,,,2020-12-23T22:44:33+00,2020-12-23T22:44:33+00
+941560659,401419744,Mic placement explanation,829834694,"Here's what I just sent to Karl in Germany. Let me know if this is unclear or mistaken.
+
+Hi Karl,
+
+Great meeting with you today. I wanted to clear up one part of the measurement procedure that I may have screwed up: microphone placement.
+
+The transfer function mic may be in the near-field, but the max SPL may not.
+
+You will probably need 3 positions:
+
+1. PLAYBACK: Close enough to get > 15dB of SNR–to determine maximum playback level and capture the stop conditions. Page 9 of Tracebook Measurement procedure.
+
+2. TRANSFER FUNCTION: Recommended distance, but as close as necessary to get <6dB of ripple–to measure the transfer function and IR where SNR is >10dB.
+
+3. MAX SPL: Recommended distance–to capture max SPL.
+
+Recommended distance = at least 3x the loudspeaker's baffle diagonal.",0,,,2021-02-10T17:16:41+00,2021-02-10T17:16:41+00
+944360731,1974815518,Kara!,829834694,"Thanks to Hui-Yu we have a bunch of new speaker models available in SubAligner including:
+
+- L-Acoustics Kara, Kara II
+- EAW LA215, JF8, UB12Si, LA118
+- Coda Audio G308-Pro, d&b Y8, and RCF ST 12-SMA
+
+[Here’s a direct link to Kara + SB28.](https://app.subaligner.com/?a=1630504538622x122340097348599800)
+
+I have also completed the entire Meyer Sound inventory, minus the cinema range. At this point, if you are deploying a Meyer Sound system, you have every combination possible including starting points and delay integration.
+
+The new Kara results seem to be in good agreement with the L-Acoustics preset guide.
+
+Here’s Kara_Kara with SB28_100. The difference of 0.57ms is equal to 15º at 100Hz resulting in a maximum deviation of 0.5dB.
+
+![](https://static.peerboard.com/community-file/5612e5ea-ff53-44e9-b1b2-aadedddd9972.png)
+
+If you have experimented with implementing some of the suggestions from the Filter pop-up then may have wondered why the result has less overall summation. That’s because SubAligner is looking for the result best matched to the custom target I have created. The target is based on various manufacturer’s main+sub alignments I have studied.
+
+![](https://static.peerboard.com/community-file/9b9b2b4a-d0e6-4f5c-b4ef-b6ff2dbdad5f.png)
+
+Here’s another comparison of the L-Acoustics Preset Guide with a SubAligner result. It’s still a Kara with an SB28. I just changed the DSP preset to SB_60. The difference of 7.25ms is equal to half a cycle at 70Hz, which would account for the polarity inversion and the seesaw action. In this case I’m happy to see that SubAligner has produce a similar result with less delay.
+
+![](https://static.peerboard.com/community-file/394c63d8-b3fb-464a-928f-664dde82d011.png)",0,48a2b9d1-044d-4c80-9667-6171d6e5c03d.png,https://static.peerboard.com/community-file/48a2b9d1-044d-4c80-9667-6171d6e5c03d.png,2021-09-01T16:04:00+00,2021-09-01T16:04:00+00
+951901661,1764308066,What is the max output of your audio interface?,829834694,"My Octa-Capture measures 15.07dBu (4.391V) on my multimeter when the signal generator in Smaart is set to sine 1kHz 0dB, even though the spec sheet says 16dBu. Also, when the signal is split and one end goes to my Focal studio monitor and one to the multimeter, I measure 14.75dBu (4.23V). I'm not sure if that test means anything. I just wanted to try it.
+
+My Behringer UMC404HD measures 3dBu (1.1V), which matches the spec sheet.",0,,,2021-10-14T17:03:29+00,2021-10-14T17:03:29+00
+961223085,308303758,How to verify VHF response,829834694,"One of the most common problems we see with measurements being uploaded to Tracebook is the VHF (very high frequency) response. If you upload a response that has a surprising slope down or up, the moderator is going to seek out a reference for comparison. You can save yourself some time by doing your own verification before measurement and upload.
+
+The most common source of these VHF problems has been vertical aim and reflective surface. First, let's discuss vertical aim.
+
+These easiest way to verify this is to play the game of hot & cold. Watch the magnitude response while you rock the speaker up and down to find the maximum.
+
+![](https://static.peerboard.com/community-file/3a6c0977-7f64-44f0-853e-b24736389490.gif)
+
+
+
+![](https://youtu.be/TrkOrQYjPPo)
+
+This is not a guaranteed solution, though. If you still have doubts, please try one of the following methods.
+
+Measure perfectly on-axis with the speaker on a table. Use that trace as an aiming target when you go back to ground plane. For more on this, please see line 250 of [the measurement procedure](https://goesto11.peerboard.com/post/928726115).
+
+![](https://static.peerboard.com/community-file/0f71c225-dd08-4b54-8776-23b414431c4b.png)
+
+Seek out a reference from the manufacturer. This is typically how a moderator is going to grade your measurement. If you look at the speaker's spec sheet or the GLL file and your measurement varies significantly, you can expect a moderator to have questions.
+
+![](https://static.peerboard.com/community-file/3c56ea7d-d72a-4dff-bde9-4feeecf57ed0.png)
+
+The other common problem is the reflective surface. If you have some suspicions that the carpet or stone you are measuring on is causing the problem then start with one of the two verification methods above. A possible solution is discussed on line 461 of the measurement procedure:
+
+![](https://static.peerboard.com/community-file/c9c6b88a-3bff-4240-9034-cf066604aae3.png)
+
+Please comment on this post with other ideas or questions. Thank you!",0,,,2021-11-05T20:54:10+00,2021-11-05T20:54:10+00
+966153895,25721842,Versarray VR112 and VR218,898512539,"Hello There. Im newbie. Anyone here used Versarray speakers and VSX26 DPS (Peavey rig). If so. How is this APP working with multiple speakers set-up. 
+
+I have 12 units of VR112, (2) VR218 & (2) VR118. For Amps I have (2) CS2000 (high); (2) CS4000 (Med) & (3) CS4080hz (Subs)",0,,,2022-10-12T16:09:48+00,2022-10-12T16:19:49+00
+983986784,420415267,Loudspeaker market/type,829834694,"There was discussion at the last meeting of including some further characterization of speaker by market, type, and category. I'm still not totally clear on what those should be. 
+
+**Market**: Professional, Recording, Cinema, Commercial/PA, Consumer
+
+**Type**: Main, Sub, Fill, Line array
+
+Does that look correct?
+
+Here's the chat transcript.
+
+12:51:17	 From steve bush : Consultant users
+
+12:56:10	 From Arthur Skudra : Target market:
+
+12:56:18	 From Arthur Skudra : 1. Professional
+
+12:56:19	 From Arthur Skudra : 2
+
+12:56:26	 From Arthur Skudra : 2. Recording
+
+12:56:32	 From Arthur Skudra : 3. Cinema
+
+12:56:40	 From Arthur Skudra : 4. Commercial/PA
+
+12:56:57	 From Arthur Skudra : 5.  MI (Music Industry) including DJ’s?
+
+12:57:05	 From Arthur Skudra : 6.  Consumer
+
+12:58:02	 From Arthur Skudra : 1. Sound Reinforcement/Live Sound
+
+12:59:43	 From Arthur Skudra : scratch #5
+
+13:01:57	 From Arthur Skudra : Speaker Type:
+
+13:02:02	 From Arthur Skudra : 1.  Mains
+
+13:02:06	 From Arthur Skudra : 2.  Subs
+
+13:02:11	 From Arthur Skudra : 3.  Fills?
+
+13:02:26	 From Arthur Skudra : 4.  Line array
+
+13:02:50	 From Arthur Skudra : 1.  Mains = LF/MF/HF??
+
+13:03:34	 From Arthur Skudra : Categorize by:
+
+13:03:41	 From Arthur Skudra : A.  Frequency
+
+13:03:50	 From Arthur Skudra : B.  Point source/line source
+
+13:03:58	 From Arthur Skudra : C.  Size?
+
+13:04:41	 From Arthur Skudra : D.  Efficiency 1W/1m
+
+13:04:49	 From Arthur Skudra : E.  Peak output
+
+13:06:20	 From Arthur Skudra : F.  Coverage Pattern",0,,,2020-12-18T00:03:02+00,2020-12-23T11:46:25+00
+1015317766,420415267,Update to the FAQ,343501240,"In readingt he first paragraph in the first FAQ entry, I find that is is rather acusatory. I think a more neutral entry might be more appropriate. Here is my suggested text to replace that paragraph
+
+Strike...
+
+Part of our industry is based on a marketing‑driven economy where the kind of data—and how it is represented—affect sales. Some manufacturers may decide to publish, e.g., (over)simplified, incomplete, incomparable, or beautified data. As a result, manufacturer interests may lead to data which differs from field measurements that in turn cannot be validated.
+
+Replave with...
+
+Manufacturers publish high quality performance data for the products they create. Since there are many different ways to measure loudspeakers and interpret the data, there exists some ambiguity when comparing data from one manufacturer with that of another. In addition to that, most manufacturers have dedicated facilities (such as anechoic chambers) in which their products are measured. While this approach produces data that is very “clean”, it makes it difficult for the common user to verify the loudspeaker’s performance in the field.",0,,,2021-05-17T15:38:20+00,2021-05-17T15:38:20+00
+1017855387,420415267,Fix IR Amplitude Scale,461200084,"@Nathan,
+
+The peak normalized IR looks great! I propose to set the (vertical) amplitude scale to a fixed range from -1 to +1.
+
+![](https://static.peerboard.com/community-file/9f1eabb2-00a4-4eaf-9a4c-9f269e619367.png)",0,61e72680-7713-4b18-80e4-89de57322460.png,https://static.peerboard.com/community-file/61e72680-7713-4b18-80e4-89de57322460.png,2020-12-23T11:44:20+00,2020-12-23T11:49:15+00
+1027804129,420415267,When can we do a public group meeting?,829834694,"Adam Wood has requested that we produce a group zoom meeting where people can ask questions. It would be great to have a couple of other moderators there. 
+
+Ideally, let's find a day when we can do a morning and evening meeting. Adam is in Australia. 
+
+How about 11am and 6pm central time on November 22 or Dec6?",0,,,2021-11-04T20:47:15+00,2021-11-04T20:47:15+00
+1057813529,2066759160,Room EQ Wizard (REW),829834694,"Native TF: Save each of your measurements as a measurement data set (.mdat).
+
+![](https://static.peerboard.com/community-file/f48b59a9-f164-4318-8175-78f65a235eff.png)
+
+# TF CSV
+
+1. Controls > Align SPL > Use SPL specified: 0dB. If you are uploading a calibrated measurement, only do this step after you have saved the original .mdat file. This step is only to make the graph on the Tracebook website appear correctly.
+2. File > Export > Export measurement as text. Use range/resolution/smoothing of measurement. Use REW export format. Export units: SPL. Export text delimiter: Tab or Comma.
+
+![](https://static.peerboard.com/community-file/a4706214-e2a1-4c1b-abbb-bfa37f5ade09.png)",0,98fb2bad-d113-4c42-a122-830752e84da8.png,https://static.peerboard.com/community-file/98fb2bad-d113-4c42-a122-830752e84da8.png,2022-06-24T20:47:16+00,2022-06-24T20:47:16+00
+1067261153,420415267,https://trace-book.org/measurement/qsc-k122,461200084,"@Nathan & Ian,
+
+For the Delay Finder Spreadsheet to work, you must enter the axial levels that correspond with each distance. While Nathan entered the times/distances in the right order, he mixed up the corresponding levels. Easy sanity check: further away must be less loud.
+
+In the attached screenshot you see the correct order which results in an approximate latency of 3 ms. Nathan stated that he measured a physical distance of 1 m. So the approx. latency is overestimated most likely because the level offset was not captured accurately, or the closer measurement was made on-axis while the second measurement was made off-axis.
+
+The spreadsheet works best when inverse-square-law is the only cause for level loss which requires you to avoid angular attenuation, i.e., both measurements shall be made on-axis.
+
+![](https://static.peerboard.com/community-file/65bd7ae6-a577-4751-901f-c60c10578724.png)",0,6828a659-faa0-4c78-ace5-7262ea8c2fe7.png,https://static.peerboard.com/community-file/6828a659-faa0-4c78-ace5-7262ea8c2fe7.png,2020-12-23T20:46:39+00,2020-12-23T20:46:39+00
+1068994770,1974815518,Changelog 7.21.22,829834694,"- Bug: Recalling an alignment did not correct recall the units used.
+- Bug: d&b audiotechnik alignments were not being correctly recalled because there were some errors in the brand name spelling.
+- Doubt: I had some doubt about why Meyer Sound 600-HP and 650 had not pc curve options. On further review, those pc curves seem to exist only to match them with a 900-HP sub, which seems like a very rare case. If you have ever run into this, please let me know and I'll figure out a solution.
+- Bug: NEXO RS18 was showing duplicate DSP options.
+- Bug: Sign up form does not resize its height.
+- Price names were updated to help people self segment. I tried to find something funny and informative. Let me know what you think.
+
+
+
+![](https://static.peerboard.com/community-file/a8fffcf4-0954-4456-96ab-3768659f67c5_353_230.png)",0,1b6c2348-3692-450c-883d-7cffd277632e_353_230.png,https://static.peerboard.com/community-file/1b6c2348-3692-450c-883d-7cffd277632e_353_230.png,2022-07-21T14:46:48+00,2022-07-21T14:46:48+00
+1079153646,1643718246,Change Log 4/28/21,829834694,"- Tags: A system of tags for loudspeaker models has been implemented. Some Tracebook moderators expressed an interested in associating certain search terms with certain models. A system of tags seems like a flexible way to implement that. Only moderators can create tags, but both moderators and users can add them. If a moderator creates a tag for a specific model of speaker then it will get added to every new or modified upload and be concatenated with any user selected tags.
+- Bug: If a moderator chose Pending from the dropdown menu, they would not be able to edit it afterwards. Now, any time a moderator chooses Pending from the dropdown list, the measurement status is set to Pending, the dropdown selection is cleared and the moderator is no longer associated with the record. This way, another moderator will be able to make a selection.
+- Bug: Temperature and Distance were not displaying.
+- IR plot has been expanded to [-40 40].
+- Medals: The bronze medal has been removed.",0,,,2021-04-28T21:18:05+00,2021-04-28T21:18:05+00
+1080633100,1764308066,Need Nexo GEOM6 + RS15 measurements,829834694,"Do you have access to either M6 or RS15 from Nexo?
+
+I'm working on a church's system soon and I'd like to prepare with some high quality data.",0,,,2021-11-28T20:40:32+00,2021-11-28T20:40:32+00
+1080646321,401419744,Release Candidate 1.2 - Rev. 210411,682517670,"Fellow moderators,
+
+Follow the link below for the Release Candidate 1.2 of the Measurement Procedure for internal review only!
+
+Notable changes:
+
+- Updated Document Structure - page 2
+- Split Introduction page 3-4 into ""About this Document"", ""Mission Statement"", ""Introduction"", and ""Moderation""
+- Major milestone - Added Figure 1 page 3
+- Added definition for ""Actionable Data"" page 5 line 69
+- Added definition for ""Spectral Tilt"" page 6 line 116
+- Redefined ""Recommended Measurement Distance"" page 6 line 120
+- Updated Figure 7 on page 13 with half space conditions
+- Added ""Bronze, Silver, and Gold"" distance tiers page 8
+- Added Figure 8 on page 15
+- Loosened ripple equal or less 6 dB to 10 dB or less (not equal ! )
+- Updated Figure 9 on page 18 to also emphasize half space conditions
+- Added Figure 10 in page 18 to emphasize importance aiming to maximize HF output
+- Added reference to “Application Notes” section at the Goesto11 forum for analyzer specific steps on page on page 21 line 589
+
+Remaining action points:
+
+@Nathan, page 25 Informative Annex A.6 CSV Formatting Guidelines
+
+Please review and provide feedback.
+
+
+
+All the best,
+
+
+
+Merlijn
+
+[https://www.dropbox.com/s/l800mcrvvgxsl0j/Tracebook_Procedure_RC1.2_210411.pdf?dl=0](https://www.dropbox.com/s/l800mcrvvgxsl0j/Tracebook_Procedure_RC1.2_210411.pdf?dl=0)",0,,,2021-04-11T14:47:10+00,2021-04-11T14:47:10+00
+1099915551,1974815518,KIVA II + right triangle solver,829834694,"Change Log 9/14/22
+
+## New speakers
+
+L-Acoustics KIVA II, QSC KW181 (now calibrated)
+
+[Open a KIVA II + SB18 alignment in SubAligner.](https://app.subaligner.com/?a=1663504799984x719110876371615700)
+
+## Features
+
+- Right triangle solver pop-up available for Main and Sub arrays. It can estimate the distance from FOH when direct measurement is otherwise impossible or needs verification. (eg. bright sun + long distance)
+- Alignments page renamed to History. Hopefully this is more clear.
+- The calculated alignment values are now visible on the History page. Previously you would need to re-run the speaker combination to get the alignment values. This feature was requested to facilitate comparison. (eg. You aligned at three different positions and want to compare the results.)
+- More DSP preset information now available through pop-up.
+- Several bugs were fixed.
+
+
+
+![image](https://sendfoxprod.b-cdn.net/media/MNBzJvKlK4oY4dPUZbVkef7NU4R7qQLW3G0Hw0vm7972)
+
+
+
+﻿
+
+![](https://static.peerboard.com/community-file/0b49f090-d1bd-4a05-9106-f5c94efe5bf4_1060_794.png)",0,dccbd88d-8a46-4b1c-a266-5d44e551d59e_900_674.png,https://static.peerboard.com/community-file/dccbd88d-8a46-4b1c-a266-5d44e551d59e_900_674.png,2022-09-18T12:39:24+00,2022-09-18T12:41:21+00
+1124021021,1764308066,How can I export coherence data from SysTune?,829834694,"I see that I can export upper and lower graphs, but the coherence data is never included.",0,,,2021-02-23T16:55:31+00,2021-02-23T16:55:31+00
+1129415720,2066759160,Crosslite,829834694,"Optional settings that could improve SNR:
+
+- Acquisition > Excitation signal > Log Chirp 3
+
+- After acquisition, apply VTT.",0,,,2022-04-06T23:44:08+00,2022-04-07T02:35:50+00
+1138447576,1974815518,SubAligner Public Product Roadmap,829834694,"Hi Everyone!
+
+This is a living document to give you a clear view on what I'm working on, what I'm about to work on, and what I'm thinking about working on. I hope you enjoy the peek behind the scenes. :)
+
+# Done!
+
+These are live in the app. Take a look at let me know what you think.
+
+- Pages: Sign In, Register, Checkout
+- Speaker pairs: Perfect Combo, Leopard+900LFC
+- User measurement submission form with instructions and video
+- New user sent welcome email
+- Register SubAligner URL and point at server
+- Design updates to make it look less like a free Google form ;)
+- Import data from CSV
+- Clean data in a simple way
+- How to compare measurements at different sample rates?
+- Find crossover region based on magnitude relationship
+- Compare wrapped phase and find relative delay
+- Include offsets for measurement distance, mic calibrator setting, and delay locator in relative delay
+- Find absolute delay
+- Speaker database: User submissions through the Google form are available in the app.
+- Apply form defaults and error messages
+- Limits: How much can I turn up the sub and maintain alignment?
+- Smart Start: How much money am I saving through proper alignment?
+- Show log: What notes do I want to record about this room/venue for next time?
+- Design: Navigation, tabs, menu, footer, sidebar, logo
+- Better data cleaning: How to interpolate wrapped phase data?
+- Suggest Parametric filters
+- Suggest allpass filters
+- View crossover region start, middle, and end on magnitude graph
+- View beginning and end of 60º corridor on phase graph
+- Filter suggestion includes polarity
+- User can copy link to their Results page and recall it.
+- Speed of sound: Use local ambient conditions for increased accuracy. 
+
+# In Progress
+
+These are under construction!
 
 - 
 
-Elke maand vind je nieuwe activiteiten, vragen, ... etc. [meer over de kans die deze community biedt]. 
+# Exploring
 
-**Een aantal vragen waar je in deze community antwoord op kunt vinden:**
+This is a list of interesting ideas. I haven't committed to them yet, but I'm eager to see if they resonate with you.
 
-- 
+- Adjustments: Add/subtract filters, change gain.
+- Upload data: I know this is an important feature for everyone so I are exploring it. Until then, you can upload your measurements through Tracebook.
+- Payment: Should we accept payments through PayPal and Amazon?
 
-**Bezoek om te starten eens deze groepen/topics**:
+- Share: Share your alignment through email or social.
+- Offline access: Look ma! No internet connection!
+- Filter suggestion includes gain
+- Filter suggestion includes subtracting filters
 
--",0,,,2021-02-07T20:55:08+00,2023-01-17T15:27:31+00
-406875752,1570198010,Even Voorstellen..,1609945838,"Hoi iedereen, ik ben.. en ik ben ...
+# Leaving It For Now
 
-Hier een foto:
+These are ideas I've explored but decided not to pursue for the time being.",0,,,2020-12-24T15:44:21+00,2022-01-21T20:33:47+00
+1160409131,1974815518,Is the speed of sound important for crossover alignment?,829834694,![](https://youtu.be/AjgV3BWgq1g),0,,,2022-10-21T15:39:30+00,2022-10-21T15:39:30+00
+1180675249,1643718246,My first public post on FB (please support),829834694,"I just made my first public post about Tracebook on Facebook in a group for live sound engineers. If you are a member, please support it by clicking Like and adding a comment. :)
 
-![Even voorstellen — Figure 1](https://pb618738055.peerboard.com/618738055/file/e9cbdf70-59a0-4015-afcf-d166fbef8037)",0,720862e6-2e6a-45d4-a99d-a6a585f0aa53_1202_900.jpg,https://static.peerboard.com/community-file/720862e6-2e6a-45d4-a99d-a6a585f0aa53_1202_900.jpg,2023-01-17T16:20:22+00,2023-01-17T16:20:22+00
-615215186,1811111832,Gratis Challenge: 7 dagen juice,1609945838,"Vervang in deze challenge 7 dagen lang 1 maaltijd door een juice!
+[https://www.facebook.com/groups/170679119633264/posts/4666695853364879/](https://www.facebook.com/groups/170679119633264/posts/4666695853364879/)
 
-Zo maak je op een gemakkelijke manier kennis met wat verschillende juices voor je lichaam kunnen doen! Voel je fitter en val misschien ook nog wat af. Om het je gemakkelijk te maken hebben we er meteen een boodschappenlijstje bij gemaakt.
+Please excuse the use of the pronoun ""I"". I was looking for ways to make it less formal and that seemed help.",0,,,2021-06-23T17:22:32+00,2021-06-23T18:22:43+00
+1199581745,1053887597,Hello,622181689,"I registered at the invitation of Oscar Barrientos. I like the purpose of sharing different speaker curves. And being able to analyze and understand them seems like a fabulous idea to me.
 
-Meld je aan, dan kun je direct van start!
+The great thing is that we can share our own speaker curves, and create a large bank of speaker information.
 
-[Meer informatie & Aanmelden >>](https://academie.shitorshine.nl/juicechallenge)
+Thank you for this invitation to this great page and community.",0,,,2021-01-14T16:34:20+00,2021-01-14T16:34:20+00
+1202770801,420415267,Manufacturer Notification Email,624928787,"Here is a draft of the introductory email to notify manufacturers of Tracebook before public beta. Feel free to edit the Google doc. It should be shared with all of you. [https://docs.google.com/document/d/1T31tu5G68KtgnJVTRVKS_hZ_D_-8JCgN7UvoegBDmyE/edit?usp=sharing](https://docs.google.com/document/d/1T31tu5G68KtgnJVTRVKS_hZ_D_-8JCgN7UvoegBDmyE/edit?usp=sharing) Here's the current text:
 
-![](https://static.peerboard.com/community-file/b5642468-de7a-4daa-b202-cd08894129b2_500_400.png)",0,7b3938fd-0af7-463f-be12-6511f424cf68_500_400.png,https://static.peerboard.com/community-file/7b3938fd-0af7-463f-be12-6511f424cf68_500_400.png,2023-01-17T16:04:31+00,2023-01-17T16:14:26+00
-616697953,1811111832,Online Training: Fitter door Bewegen,1609945838,"In deze volledige online training word je 10 weken begeleid. Je krijgt achtergrond informatie en inspiratie, en leert door middel van video’s de oefeningen goed uit te voeren. Je gaat aan de slag met een 20-tal opdrachten.
+DRAFT:
 
-Het is laagdrempelig en op maat om je eigen fitheid door bewegen te verbeteren op de manier die bij jou past. Dus geen gesjeesde sport instructeurs, maar Elsbeth maakt de video’s zelf. Heb je al zin om mee te doen?
+Tracebook Introduction and Invitation 
 
-[Meer informatie >>](https://shitorshine.nl/fitterdoorbewegen/)
+When visiting a venue, would it not be nice to know what to expect from the loudspeakers before the measurement kit was deployed? System techs think so and so do we.
 
-![](https://d1aettbyeyfilo.cloudfront.net/shitorshine/30933724_1671566825Qi2Banner_Bewegen.png)
+Tracebook has been developed to fill this need. The intention is to provide a platform where  audio professionals can follow a procedure (attached) to measure loudspeakers themselves, upload the data, have it approved by moderators, and made available to other audio professionals - for free. The goal is for users to provide other users with actionable loudspeaker field data to help them in their daily work. 
 
-Training al gekocht? [Login in membership >>](https://shitorshine.krtra.com/c/TNsxZ2uWbdCp/gYlv)",0,,,2023-01-17T16:08:43+00,2023-01-17T16:14:50+00
-674519887,1702001048,Wat heb je aan deze community?,1609945838,"De kracht van deelname aan deze online community is om ...... met de andere community-deelnemers. Dit stelt je in staat om..... Je zult hier vinden:
+Following a procedure, users can record measurements of a loudspeaker, including frequency, phase, and impulse response, a wave file, and maximum SPL. The data set must also include a photo of the microphone and loudspeaker, a description of the measurement setup, and all of the equipment settings used during data acquisition. 
 
-- Elke maand nieuwe activiteiten;
-- Inspiratie en.....;
-- Chats over ..., ...., .... en meer;
-- Fijne verbinding met een groep gelijkgestemde jongeren. 
-- (H)erkenning en empathie als je even vastloopt
-- X per jaar ontvang je een persoonlijke uitnodiging om je mede Sparkle Club leden te ontmoeten in een online groepsbijeenkomst.",0,,,2021-02-10T12:15:58+00,2023-01-17T15:28:58+00
-1058168726,1811111832,Happiness Programma,1609945838,"Een training om lekkerder in je vel te zitten, voor vrouwelijke cancer survivors en vrouwen met chronische kanker. Dit wetenschappelijk onderbouwd programma laat je in 6 maanden zien en voelen wat happiness met je doet.  Het opent je ogen en je krijgt zicht op je ingeslopen patronen. En het is heel erg leuk om dit programma te volgen omdat je altijd bezig bent met iets positiefs. En dat kan alleen maar energie geven. 
+Once completed, the user uploads the data and it is reviewed by two moderators. If the data set is found to be within the tolerances laid out in the procedure and does not include any obvious errors, the data set is approved and is published to the site. As additional users submit their own measurements of the same loudspeaker, confidence in the data sets grows. For loudspeaker data available on the site, users can view the data or download it, including files that can be used as reference traces in measurement software.
 
-Je krijgt na stap voor stap het programma toegestuurd, zodat je het in een rustig tempo kunt doorlopen. In de besloten Facebookgroep vind je meer instructie, luisterteksten bij de opdrachten, brainstormplekken, kun je een buddy vinden en meer. Ben je al toe aan dé investering in jezelf en je eigen geluk? Start direct!
+The measurement procedure describes methods that yield actionable field data. Some users will acquire measurements with a bit of frequency response ripple, for instance, that would be unacceptable in an anechoic laboratory grade measurement, but is perfectly fine for the purposes of Tracebook. If the procedure is well executed, the data correlates well with laboratory grade measurements, but is not intended or suggested to be a replacement of them. 
 
-[Meer informatie >>](https://academie.shitorshine.nl/happiness-training)
+Tracebook is an independent, public, non-profit online community that promotes the open exchange of loudspeaker data. This site will never be monetized. We want to be the Switzerland of loudspeaker field data, and we have designed the platform to be just that. Safeguards and procedures have been built in to account for bias, human error, and misbehavior. The site is currently wrapping up the private beta testing and will be available for public beta testing in the coming weeks. It’s likely to be a slow-growing community, but we are ready if it becomes popular.
 
-![](https://d1aettbyeyfilo.cloudfront.net/shitorshine/30933604_1668698121A4FHappiness_Programma_Banner.png)
+We are writing today so that you are not surprised, discovering this community sometime in the future. We welcome your involvement and participation, but not your dollars. You can join, participate in the forum, upload loudspeaker data, and take a look at other loudspeakers. Because disclosure is important to us, when signing up, please use your work email and list your company affiliation. Please see the attached signup instructions. 
 
-Training al gekocht? [Login in Membership >>](https://shitorshine.krtra.com/c/TNsxZ2uWbdCp/gYlv)",0,2c4fda50-43fa-4d63-a9bb-e8a0a60b8b63_1350_900.jpg,https://static.peerboard.com/community-file/2c4fda50-43fa-4d63-a9bb-e8a0a60b8b63_1350_900.jpg,2023-01-17T16:18:03+00,2023-01-17T16:18:03+00
-1210346476,1702001048,Over de Sparkle Club & Forumregels,1609945838,"Lieve krachtige vrouw,
+Welcome to the Switzerland of loudspeaker data!
 
-We wensen je hier heel veel fijne contacten met gelijkgestemden. Er is geen boek die kan zeggen wat je moet doen om na de behandeling van kanker je leven weer op de rit te zetten. Door er met anderen over te praten die hetzelfde hebben meegemaakt kun je elkaar kracht en energie geven om door te gaan met de zoektocht naar jezelf. En met een beetje humor en lol, dat is ook belangrijk.
+Thank you,
 
-De basis van shitorshine is een online plek voor vrouwen na de behandeling van kanker. Hier vind je antwoorden, word je aangezet tot actie en kun je ervaringen delen met lotgenoten/gelijkgestemden. We proberen de Shit om te buigen naar de Shine. Het glas is half vol. Door deze energie en positiviteit en sprankeling (hoe klein of hoe groot ook) over te brengen en door te geven hebben we een positieve invloed op elkaar.
+The Tracebook Volunteers
 
-Bij alles wat je schrijft houd je bovenstaand uitgangspunt in gedachten.
+Contact: <is there an email setup for Trace-Book yet?>
 
-Laat de Sparkle-club een mooie aanvulling voor je zijn. De behoefte aan lotgenotencontact is namelijk erg groot. Soms is die behoefte latent aanwezig, maar wordt door het te proberen bekrachtigd.
+Attachments: Sign Up Instructions, TB Measurement Procedure",0,,,2021-05-06T16:58:11+00,2021-05-06T16:58:11+00
+1207448409,420415267,Send me your bio for the About page,829834694,"We have an [About](https://trace-book.org/about) page now.
 
-Ik wens je alle kracht en energie om het leven te leiden wat jij graag wilt.
+If you would like to be included, please send me a short bio and a headshot that you'd like to use.",0,,,2020-12-21T22:08:07+00,2020-12-23T11:46:03+00
+1218609965,25721842,What if subAligner were a plug-in?,829834694,"What if subAligner were a plug-in that you could load into Reaper, LiveProfessor, or your favorite plug-in host?
 
-Liefs Elsbeth
+Imagine if it had the exact same interface, but instead of only giving you the alignment instructions, it also processed the audio? Not only would it save you the time of inserting the correct delay, polarity, and filter details in your output processing, but it would also enable many other filter options beyond the capabilities of whatever hardware you have available.",0,,,2021-05-04T19:44:01+00,2021-05-04T19:44:01+00
+1223817253,1643718246,Changelog 10.15.21,829834694,"- Upload page: Change Calibrator Reference Setting field placeholder to ""Is this a calibrated measurement?""
+-  System Latency popup: ""Not suitable for subwoofers"" until we have defined a — repeatable — workaround and included it into the measurement procedure.
+- Profile Settings page: New field Coherence Graph Height can be entered as a percentage of total graph height.
 
-## Forumregels
+## Admin
 
-Op het forum van Shitorshine kun je over jezelf vertellen en je ervaringen na de behandeling van kanker. Dit kan aan de hand van teksten, foto’s en korte films (max 1 minuut). Je kan deelnemen aan onderzoeksvragen en nog veel meer. Uit je gevoelens en ervaringen en stimuleer anderen dit ook te doen. Echter: er zijn wat spelregels.
+- Admin can open activity in new tab.
+- Admin can sort activity by any field and sort upload records by moderator.
+- Measurement moderators are emailed when an upload is updated.",0,,,2021-10-15T21:33:04+00,2021-10-15T21:33:04+00
+1240175808,2066759160,Smaart,829834694,"## When exporting to ASCII
 
-- Wees je ervan bewust dat het geven van een reactie op een post niet vrijblijvend is.
-- Naast regels en wetten, waar iedereen zich aan te houden heeft, hebben wij natuurlijk ook onze eigen normen over wat we wel en niet toelaatbaar vinden.
+- Set smoothing to 1/48th octave.
+- Set the coherence threshold to 0% prior to exporting traces to ASCII. Numerical values of data—whose coherence is less than the coherence threshold—will be replaced with an asterisk (*) in the exported CSV file and cannot be plotted by Tracebook.
+- Take note of the Squared Coh setting under Options > Transfer Function > Coherence. When you upload to Tracebook, select the correct coherence setting. eg. If you export to ASCII with Squared Coh checked, then your upload form should also have squared coherence selected.
 
-Met dit lidmaatschap ga je akkoord met de [disclaimer en regels van de Sparkle Club](https://shitorshine.nl/disclaimer/). 
+- After exporting ASCII data, simply change the file extension from .txt to .csv",0,,,2021-05-19T18:25:22+00,2021-06-05T20:41:43+00
+1262528562,1643718246,Change Log 5/16/21,829834694,"- Minor improvement to Index page loading speed - According to my Bubble coach, Eli, ""It could be a lot worse"".
+- Improved stability of HighCharts - Ian had complained about some charts not loading. I have attempted a fix where the chart will only load after everything else above the fold has loaded. Seems to be more stable.
+- Bug with multi-file uploader - Merlijn found a bug with some of the files uploaded under Additional Files.
+- Reduced the number of emails sent - Tracebook has been exceeding the number of emails allowed with its free account on SendGrid. To help, I have implemented a small change where an email notification about a new comment on a measurement will not be sent if another email was sent within 10 minutes prior.
+- CLICKABLE SPEAKER LIST - I think everyone has been wanting this feature since the beginning. Now you can right-click or command+click on anything in the repeating group of measurements (found on Index, Search, and Profile pages) to open them in a new tab or window.",0,,,2021-05-16T20:50:34+00,2021-05-16T20:50:34+00
+1287088550,420415267,Please moderate the pending measurements to finalize the competition,829834694,"If any of Kalle's measurements are approved, he may be the winner, but several of them still need a second moderator.",0,,,2021-03-12T00:54:54+00,2021-03-12T00:54:54+00
+1291480954,1053887597,Cannot find the speakers I use.,54182597,"I use RCF TTL55a, RCF TTL33a, TTL56a of which I am not seeing in the dropdown menu? Also use Yorkville Paraline, 801 subs, DB monitors and EV monitors.",0,,,2023-02-03T03:18:02+00,2023-02-03T03:18:02+00
+1295644742,777980920,Smaart coherence export & import,343501240,"I tripped across a little issue last week that caught me by surprise. As most of us are aware, ASCII exports from Smaart are based on the data as displayed in the measurement views. This means that the coherence values that are exported change based on whether the coherence is squared or not. If you are viewing coherence squared and do an export, the file will contain the squared values. If you then re-import the data, Smaart assumes that the data is NOT squared, so if you still have squared coherence turned on, the coherence will be ""double squared"". 
 
-![](https://www.youtube.com/watch?v=bzctXqNUSqw)",0,,,2023-01-17T16:39:37+00,2023-01-17T16:40:17+00
-1252593077,1877704352,Vraag over...,1609945838,Kun je me vertellen of...?,0,,,2023-01-17T16:20:46+00,2023-01-17T16:20:46+00
-1536252798,1702001048,Hoi test,1068601607,Hoi,0,,,2023-02-13T13:57:56+00,2023-02-13T13:57:56+00
-1621564308,1811111832,Gratis Challenge: 21 dagen meer bewegen,1609945838,"Bewegen heeft enorm veel voordelen, dat weet je al lang. Daar wil je graag van profiteren maar het is lang niet altijd makkelijk om daadwerkelijk in beweging te komen. Daarom gaan wij je helpen!
+This is not an issue if you save a transfer function in its native file format.",0,,,2021-05-18T17:01:13+00,2021-05-19T19:11:30+00
+1313487902,1643718246,Change Log 4/18/21,829834694,"- Submit button on Upload page disappears and is replaced by a Processing alert when clicked to avoid confusion.
+- Text ""No copyright images!"" added to product thumbnail upload field.
+- RSM and RLD removed from Upload page. 
+- Recommended measurement distance is not automatically recalculated when Ground Plane field is changed.
+I spent some time trying to figure out how to create a change log for each measurement record to reveal changes to each field over time. At the time of writing this I still haven't figured it out.",0,,,2021-04-18T19:52:16+00,2021-04-18T19:52:16+00
+1317154375,1306687032,SynAudCon Articles,829834694,"Ground Plane Measurements
 
-Ontvang elke dag een uitdaging in je mailbox!
+by Pat Brown
 
-[Meer informatie & aanmelden >>](https://academie.shitorshine.nl/21-dagen-meer-bewegen)
+[https://www.prosoundtraining.com/2014/04/24/ground-plane-measurements/](https://www.prosoundtraining.com/2014/04/24/ground-plane-measurements/)",0,,,2021-03-12T08:55:59+00,2021-05-20T16:43:11+00
+1323129839,25721842,How much SHOULD SubAligner cost?,829834694,"Karl from Germany recently told me that SubAligner is too expensive, ""because after 10 years you will have paid $1k, which is the price of Smaart.""
+
+**What do you think?**
+
+At this point I can't tell. I've spent hundreds of hours on the app. For me, it's worth $$$.
+
+I asked Karl how much he though it should cost and he suggested a one time fee of $50-60 and then another smaller fee to use extra speaker brands.",0,,,2021-02-02T22:04:24+00,2021-02-02T22:04:24+00
+1368678483,420415267,"Added ""Application Notes""",461200084,"Added and ""Application Notes"" section to the public facing Tracebook forum for capturing application specific information.",0,,,2021-02-06T21:21:43+00,2021-02-06T21:21:43+00
+1369757615,1643718246,Change Log 6/5/21,829834694,"- Windscreen field is now visible on the Upload and Measurement pages.
+- New video playlist on Upload page.
+- Removed the SubAligner button on the Measurement page. I'm not sure how often it was getting used, but it was the source of some questions about the non-profit nature of TB. We'll see if anyone misses it.",0,,,2021-06-05T20:35:27+00,2021-06-05T20:35:27+00
+1402747693,420415267,Speaker compare tool,829834694,"Everyone seems to be excited about adding to ability to compare two or more measurements on the site. What features are essential?
+
+Do we want to see complex addition while adjusting delay and polarity? Or just see two measurements on top of each other? If more than two measurements are on the graph, should they all get added together or some excluded?
+
+What about level offsets?
+
+There's an open source tool that might do most of what need already. Please take a look at these examples:
+
+- [squiqlink](https://squig.link/)
+- [HypeTheSonics](https://www.hypethesonics.com/iemdbc/)",0,,,2022-01-22T23:44:06+00,2022-01-22T23:44:06+00
+1417848284,1643718246,Change Log 5/4/21,829834694,"Congratulations everyone. We are taking big steps to move from private beta into public beta. Thank you to everyone for the feedback and ongoing support.
+
+- Draft Measurement Procedure Release Candidate 1.2 is now live! Please see more details below.
+- Bronze medals were removed. Gold and silver were demoted to 3x and 1.5x baffle diagonal, respectively.
+- Waiting list was deleted after sending a final email to the 19 members. 
+- Bug with AirCopyToClipboard fixed.
+
+Updates to [the measurement procedure](https://goesto11.peerboard.com/post/928726115):
+
+- **Maximum permitted ripple increased from ≤ 6 dB to < 10 dB (not equal !!!)**
+- Updated Document Structure - page 2
+
+- Introduction on pages 3-4 split into multiple sections:
+
+1. ""About this Document”
+2. ""Mission Statement”
+3. “Introduction""
+4. “Moderation""
+
+- Added Figure 1 page 3 which compares field data and anechoic chamber data
+
+- Added definition for “Spectral Envelope"" page 5 line 69
+
+- Added Figure 2 page 5 which shows examples of spectral envelopes
+
+- Added definition for ""Actionable Data"" page 5 line 79
+
+- Added definition for ""Spectral Tilt"" page 6 line 127
+
+- Redefined ""Recommended Measurement Distance"" page 7 line 130
+
+- Augmented Figure 8 on page 13 to also show half space conditions
+
+- **Added “Silver” (1.5× to 3× baffle diagonal) and “Gold"" (3× baffle diagonal, or more) distance tiers page 14**
+
+- Added Figure 9 on page 15 showing how to determine the room size based on the measurement distance
+
+- Updated Figure 10 on page 18 to emphasise total effective baffle size under half space conditions
+
+- Added Figure 11 in page 18 to emphasize importance of aiming for line array loudspeakers to maximise HF output
+
+- Added reference to “Application Notes” section at the Goesto11 forum—for analyzer specific steps—on page on page 21 line 601
+
+- Added language for Annex A.2 “Balanced Connections”
+
+- Added language for Annex A.3 “Y-cables and Internal Digital Loopbacks”
+
+- Added language for Annex A.6 “CSV Formatting Guidelines”
+
+- Added language for Annex A.7 “Column Loudspeakers”",0,,,2021-05-04T14:41:54+00,2021-05-04T14:41:54+00
+1428425640,1974815518,SubAligner Feature Request,829834694,"Feature requests? Post'em here!
+
+Vote up the ones you like.",0,,,2020-12-24T15:30:06+00,2020-12-24T15:30:06+00
+1447854683,1974815518,"RCF TTL4-A, HD12-A, 8004-AS and EV QRX",829834694,"Thanks to Ian and Nate's uploads to Tracebook there are now several new speaker models available in SubAligner.
+
+[Here's a direct link to an RCF TTL4-A with 8004-AS combo.](https://app.subaligner.com/?a=1629318970641x492363900997599200)
+
+The results agree well with those in the RCF Pre-alignment Delays Guide. The result from SubAligner gives a bit more weight to the alignment in the lower end of the crossover region, accounting for the approximately 30º offset visible in the higher end of the crossover region.
 
 
 
-
-
-![](https://shitorshine.nl/wp-content/uploads/2022/11/Opt-in-Meer-Bewegen-Challenge-Tekst-Square.png.webp)",0,08632c7f-58f5-4475-adcb-c5e3492ff832_500_400.webp,https://static.peerboard.com/community-file/08632c7f-58f5-4475-adcb-c5e3492ff832_500_400.webp,2023-01-17T16:11:26+00,2023-01-17T16:11:26+00
-1796941750,1797740959,"Podcast met Merel: ‘Het klinkt gek, maar ik ben gelukkiger dan ooit’",1609945838,"Merel geeft in deze podcast tips over de laatste fase en de herinneringen die ze achterlaat in het leven.
-
-Zij is op 30 oktober 2022 overleden, deze podcast is in haar laatste weken opgenomen.
-
-[Kijk & luister naar de podcast (Instagram) >>](https://www.instagram.com/reel/CkL6sASI3Eg/?utm_source=ig_embed&ig_rid=cb40a1b4-9839-41ee-b3f9-c2c71f3d3496&#8243)
-
-[Lees hier de volledige blog op Wendyonline.nl >>](https://www.wendyonline.nl/merel-heeft-uitgezaaide-borstkanker-en-wordt-niet-meer-beter-het-klinkt-gek-maar-ik-ben-gelukkiger-dan-ooit/)
+![](https://static.peerboard.com/community-file/d41e5b69-e5e7-4f6f-861e-8ea38292772e.png)
 
 
 
-![](https://www.wendyonline.nl/wp-content/uploads/2022/10/header-Merel.jpg)",0,096057ea-bce0-4b0e-84b8-a57a1f494ed7_360_640.jpg,https://static.peerboard.com/community-file/096057ea-bce0-4b0e-84b8-a57a1f494ed7_360_640.jpg,2023-01-17T16:26:54+00,2023-01-17T16:26:54+00
-1843151448,1811111832,Bij Shit or Shine helpen we je graag op positieve wijze bij je herstel,1609945838,"Krijg inzicht in wat je kunt doen voor beter herstel en een fijner en gezonder leven met en na kanker.
+![](https://static.peerboard.com/community-file/7eb98748-c543-458c-835f-43e5d4a31480.png)",0,9b1fdc13-e354-42c5-999e-444cef39742d.png,https://static.peerboard.com/community-file/9b1fdc13-e354-42c5-999e-444cef39742d.png,2021-08-18T20:48:47+00,2021-08-18T20:48:47+00
+1455448004,1974815518,Using SubAligner in the Field,829834694,"![](https://static.peerboard.com/community-file/45d56f8d-5988-4685-a1b0-46bee7b0c1b7.jpg)
 
-Shit or Shine biedt gratis en tegen zeer gereduceerde tarieven laagdrempelige challenges en trainingen aan voor beter herstel en een fijner leven. Dat in een leuk jasje, zodat je juist kunt genieten van de uitdagingen die op je pad komen. 
+Questions we will answer:
 
-Ons advies: probeer eerst het gratis aanbod om te ervaren hoe Shit or Shine werkt en of het bij je past. Bovendien ontvang je dan een mooie kortingscode voor een betaalde training, mocht je de volgende stap willen nemen. Dat scheelt je echt veel geld!
+- What are the biggest mistakes to avoid?
+- How I you verify that it's working?
+- What hidden features am I missing?
 
-Voor ons, als Shit or Shine,Dat je laagdrempelig simpele handvatten krijgt om wat mee te kunnen in je leven. En die (kleine) veranderingen leveren jou veel op.
+Plus, learn how to get a lifetime subscription for FREE!
 
-Via onderstaande links al het (gratis en betaalde) aanbod dat Shit or Shine jou te bieden heeft. Maak er kennis mee, bestel wat je wilt, en kijk of we een leuke match zijn.
+[**Enroll here.**](https://nathanlively.as.me/subaligner-in-the-field)
 
-- [Voeding met en na kanker >>](https://shitorshine.nl/trainingen/leer-meer-over-voeding/)
-- [Bewegen met en na kanker >>](https://shitorshine.nl/trainingen/leer-meer-over-bewegen/)
-- [Gelukkig met en na kanker >>](https://shitorshine.nl/trainingen/leer-meer-over-happiness/)",0,,,2023-01-17T16:00:02+00,2023-01-17T16:00:02+00
+______
+
+This event is free to attend on Nov 18, but the recordings with only be available to those will a SubAligner Pro subscription. Seating is limited, so please only sign up if you can attend live.
+
+See you there!
+
+-Nathan
+
+______
+
+WHERE: Online!
+
+WHEN: There are two times available on Thursday November 18:
+
+- 9am PST (UTC-8). That's noon in NYC and 5pm in London.
+- 4pm PST (UTC-8). That's 7pm in NYC and 11am in Sydney.
+
+DURATION: 60 minutes.
+
+TUITION: $0 to attend on Nov 18.",0,4ea003d1-d273-47e8-9155-b77b91dc477b.jpg,https://static.peerboard.com/community-file/4ea003d1-d273-47e8-9155-b77b91dc477b.jpg,2021-11-05T17:31:25+00,2021-11-05T17:31:25+00
+1462065071,420415267,Please moderate new uploads!,829834694,"Hey guys, there are 8 new uploads that need a second moderator.",0,,,2021-01-21T14:32:57+00,2021-01-21T14:32:57+00
+1464745727,401419744,Very Important Data Point,682517670,"Fellow moderators,
+
+Here's a very important data point in the interest of developing the measurement procedure in a pragmatic way. User Michael Hack made a measurement of a Meyer Sound LEOPARD at 1-meter distance which can be compared directly to data from MAPP measured in an anechoic chamber.
+
+These traces—from 63 Hz and up—match each other sufficienly enough and the standard deviation is just below 2 dB.
+
+In this example, 1-meter is roughly 1.5 times the baffle diagonal (mirror image excluded).
+
+The phase trace at higher frequencies differs only because the delay locater was off by a sample or so.
+
+Thoughts?
+
+
+
+![](https://static.peerboard.com/community-file/a66ba91c-c193-4a0a-a20a-14363407d90d.png)
+
+
+
+![](https://static.peerboard.com/community-file/e3cc7697-a11f-4e4d-b0f9-a7b42de4af66.jpg)",0,6441ddde-7f3a-455d-a97f-ea85405829f7.png,https://static.peerboard.com/community-file/6441ddde-7f3a-455d-a97f-ea85405829f7.png,2021-03-30T18:14:11+00,2021-03-30T18:14:11+00
+1465734880,1643718246,Watch the Measurement Procedure overview video,829834694,![](https://youtu.be/2O5ld8aalxs),0,,,2021-02-05T18:32:51+00,2021-02-05T18:32:51+00
+1485548950,25721842,What is your distance measurement strategy?,829834694,"Measuring distance with a laser disto outside in the sunlight can be challenging. I just purchased a new disto that is supposed to be accurate up to 600ft. Attempting measurements from a mere 17m was super challenging, though. I could only get it to work by attaching a shiny plate to the speaker face.
+
+This is fine for speakers that I can reach, but what about arrays high up in the air? Is there a better strategy to measure distance in the sun? Do I need to upgrade to some kind of range finder?
+
+![](https://static.peerboard.com/community-file/1dafc160-f3a5-4a7f-8ad3-d6f653d228aa.jpg)
+
+
+
+![](https://static.peerboard.com/community-file/d296dde5-5c86-465b-b5fd-d85a84491916.jpg)",0,305d2f7e-95dc-41b9-bf77-664de5b9a196.jpg,https://static.peerboard.com/community-file/305d2f7e-95dc-41b9-bf77-664de5b9a196.jpg,2021-09-22T22:37:42+00,2021-09-22T22:37:42+00
+1487855185,1643718246,Change Log 4/8/21,829834694,"- Feature: User can clone a measurement from their profile page for faster uploads. Today, for example, I uploaded the same VRX932LAP speaker, each with a different processing preset.
+- Bug: User could not delete their own upload from the profile page.
+- Bug: Multi-file uploader would not remove file. (Apologies to Kalle, who has been trying to tell me that this wasn't working, but I didn't understand what was happening until today.)
+
+![](https://static.peerboard.com/community-file/cdbcfabd-3d57-45af-a625-1bdaa47830c8.png)",0,144de02a-56bf-413f-8018-a6c073bb2350.png,https://static.peerboard.com/community-file/144de02a-56bf-413f-8018-a6c073bb2350.png,2021-05-08T19:14:12+00,2021-05-08T19:14:12+00
+1500469945,25721842,Distance measurement tips in sunlight,829834694,"What are some of your distance measurement tips for outdoors + sunlight?
+
+1. Get closer. If you calculate your alignment position with Merlijn’s Sub Align calculator, you will often find that the best alignment position is a lot closer than you thought. This will make a distance measurement a lot easier to do.
+2. 3D design. If you can get the distances from a 3D model ahead of time, that’s the best.
+3. Target. Many laser distos come with a little mirror that you can attach to the speaker. Anything reflective will work.
+4. Camera. My laser disto has a camera on it. This makes it much easier to aim. You still need something shiny to aim at, though, and for longer distances you’ll need a tripod for accurate aim since your hands will never be still enough.
+5. Right triangle solver. If you can’t get a lock on the speaker, you can put the disto on the ground and aim at a target on the ground below the speaker.  Then measure the height of the speaker. This feature is not built into SubAligner.
+6. Range finder. I keep a golf range finder as a back-up. It’s only accurate to within 1m, but it’s better than nothing and can be used to verify questionable laser disto readings.
+
+I wish there were some glasses you could wear that would highlight the laser dot or some kind of scope or sight. I see that the firearm community has a lot of cool toys like this, but haven’t found one that would actually help us.",0,,,2022-08-07T14:07:08+00,2023-05-02T19:14:46+00
+1526539546,1974815518,Open Sound Meter adds CSV imports,829834694,"Open Sound Meter is now compatible with SubAligner. Thanks Pavel!
+
+![](https://static.peerboard.com/community-file/354ff069-2e5e-4b08-b499-e51e2eb10fed.png)
+
+That brings the compatibility list to REW, SATlive, Crosslite, Open Sound Meter, and Smaart©.",0,02943e21-3f17-4ac1-b772-afe6a48a1409.png,https://static.peerboard.com/community-file/02943e21-3f17-4ac1-b772-afe6a48a1409.png,2021-02-03T18:32:53+00,2021-02-03T18:32:53+00
+1543311298,1643718246,First user upload!,829834694,"A big THANK YOU to Steve for making the very first uploads to Tracebook. (I'm not including myself)
+
+This feels like a milestone. It's like when a new coffee shop opens and they frame their very first dollar on the wall.
+
+![](https://static.peerboard.com/community-file/0ec9b500-0879-41b6-902c-9e14b7a75d39.png)
+
+This is also a great learning opportunity. For some reason, both of the CSV files Steve uploaded had the wrong extension and one of them has too much ripple. This will give us a great chance to test out the whole moderation process.",0,7a7e5847-4c44-4694-80fb-e4f6470b9fa8.png,https://static.peerboard.com/community-file/7a7e5847-4c44-4694-80fb-e4f6470b9fa8.png,2021-01-14T19:57:20+00,2021-01-14T19:57:20+00
+1552775355,1974815518,Change Log 10.26.21,829834694,"Big thanks to Andy Chen and Hui-Yu for uploading a bunch of new Coda Audio models.
+
+Other exciting updates:
+
+- Speed of sound: User can modify speed of sound used in absolute delay calculation from Profile page. User's current speed of sound will be logged with each alignment. 
+- Coplanar (equidistant) subwoofer measurements now available for download. This will allow you to practice alignment simulations in software like Crosslite, REW, SATlive, and Open Sound Meter.
+
+![](https://static.peerboard.com/community-file/5796b975-8a01-4041-b0b8-19119e726bbf.png)
+
+
+
+![](https://static.peerboard.com/community-file/6d28e860-4b8b-4e6e-933d-8f172b32b7ed.png)",0,f28a14ff-8fdb-405e-8cd4-515c00664f98.png,https://static.peerboard.com/community-file/f28a14ff-8fdb-405e-8cd4-515c00664f98.png,2021-10-26T19:21:15+00,2021-10-26T19:21:15+00
+1565924495,1764308066,Rcf 4pro 8300-as (old version),1822592624,"﻿hi, soon i have to work with this subs and old rcf tt22a (not mkii). Someone can help me and upload this speaker on sub aligner? Thank you very much!",0,,,2022-03-01T14:17:18+00,2022-03-01T14:17:18+00
+1568931979,1764308066,Anechoic chambers near me,829834694,"Do you have access to an anechoic chamber? Comment below if you'd be willing to help out other Tracebook members with their measurements.
+
+Do you need access to an anechoic chamber? Tell me about it...and comment below. :)",0,,,2021-03-09T00:43:03+00,2021-03-09T00:43:03+00
+1592269340,1974815518,SubAligner Bug Report,829834694,Found a bug? Please contact Nathan at support@subaligner.com,0,,,2020-12-24T15:32:05+00,2020-12-24T15:32:05+00
+1607749258,1974815518,Changelog: 12.22.21 (new responsive design),829834694,"I've been hard at work improving the user interface of SubAligner. Let me know what you think!
+
+Plus, new speakers from Nexo and EAW.
+
+
+
+![](https://static.peerboard.com/community-file/b3525b28-7569-4470-9c28-edded1f2f2e6.png)",0,e2a7224e-0cea-4a82-ae7c-3fe97590593c.png,https://static.peerboard.com/community-file/e2a7224e-0cea-4a82-ae7c-3fe97590593c.png,2021-12-23T00:49:55+00,2021-12-23T00:49:55+00
+1624331893,1770455539,Mics & Interfaces 101,461200084,![](https://www.youtube.com/watch?v=Xcnp5VwV9Hc),0,,,2020-12-17T22:10:30+00,2020-12-17T22:10:30+00
+1640770072,420415267,How do we handle Incomplete measurements have have been updated?,829834694,"Steve remeasured two of his RCF speakers. (they need be moderated, By the way)
+
+[https://trace-book.org/measurement/art-310a-art-310a-default-](https://trace-book.org/measurement/art-310a-art-310a-default-)
+
+[https://trace-book.org/measurement/art-310a-art-310a-default-](https://trace-book.org/measurement/art-310a-art-310a-default-)
+
+The problem is that they are still marked as Incomplete so moderators will not be notified. How should we handle this case?
+
+I could set it up so that if any change is made to a measurement that was previously marked as Incomplete, that the status change to pending. That would force it to go back through the moderation process.
+
+Another option is to do nothing. That forces the user to post a comment or message one of us, which is how I know that Steve updated it.",0,,,2021-02-25T21:56:05+00,2021-02-25T21:56:05+00
+1645374162,1974815518,SubAligner Success Stories,829834694,Success stories? Post your photos!,0,,,2020-12-24T15:32:56+00,2020-12-24T15:32:56+00
+1652871437,1643718246,new podcast!,829834694,"- What happens if you’re not familiar with a speaker?  🔉 
+- How do you know if the data you are measuring is valid? ⚖️ 
+- How do you know if it will play nicely with others? 🤾‍♀️ 
+
+Listen to the interview to find out more.
+
+![](https://youtu.be/Y_0lLrV4dss)",0,,,2022-06-15T14:56:38+00,2022-06-15T14:56:38+00
+1658928342,420415267,Welcome Tracebook Moderators!,829834694,This will be a good place to enter into discussions and make announcements. Let me know what needs to be updated or changed.,0,,,2020-12-14T15:48:07+00,2020-12-23T11:46:53+00
+1660508834,25721842,Gradient and End Fire sub arrays with sub aligner,2035729946,"So i have a question regarding how gradient and end fire sub arrays work using sub aligner.
+
+
+
+Firstly would you still include each individual subwoofer in the total box count field? Secondly, in terms of total output delay. Would you then add this final delay to each subwoofer independantly? 
+
+
+
+Let's assume a 4 element end fire array spaced 1m apart. Could you explain the process here? Could also explain the process for a 6 element gradient array where two subwoofers are physically reversed and then polarity inverted. 
+
+
+
+Thank you. 
+
+Adam.",0,,,2021-01-14T20:57:54+00,2021-01-14T20:57:54+00
+1665063186,420415267,Do you know anyone at Coda Audio Germany?,829834694,"This email from Kalle made me a little sad. I wonder what Coda didn't like about Kalle's measurement data? Part of me would like to get involved and reach out to Coda, but if we are the Switzerland of measurement data then the whole point is that we don't make it personal and we don't take sides, right?
+
+By the way, I have not had a response from anyone at Coda since we reached out to them.
+
+_Hello Nathan,_ 
+
+_this week I had an friendly and very determined conversation with my boss. He received an e-mail from Coda Audio Germany. Coda Audio Germany asked for me because you got an e-mail from Coda Audio USA._  
+
+_You have found out that the files from Coda Audio are in Tracebook. They find out that it was me and asked me to speak.  Coda Audio was not happy with the data in Tracebook and asked if I can delete it. After a long conversation with Coda Audio germany I agreed._
+
+_I am sorry to do this but i do not want any trouble with my boss and Coda Audio._ 
+
+_I think that Tracebbok is a very good idea and it was a pleasure to support it. I thank you for the chance to work on it. I enjoyed it very much an learned a lot._
+
+_Maybee I can help you with another project in the future-_",0,,,2021-05-27T14:51:24+00,2021-05-27T14:51:24+00
+1686849277,1974815518,Nexo!,829834694,"Nexo has been one of the most requested speaker brands. A huge THANK YOU to Brian d'Epagnier in Switzerland for taking the measurements so I could add them to the app.
+
+[Test them out now!](http://app.subaligner.com/)
+
+![](https://static.peerboard.com/community-file/3b83b56e-253d-4004-b01b-9010f61c8b6d.png)
+
+If there are more speaker models you'd like to see in SubAligner, the fastest way is to send me the measurements. Upload them to Tracebook or comment here and I'll send you the measurement instructions. :)",0,463b90ad-372d-4103-b8cb-71e36c3c8da0.png,https://static.peerboard.com/community-file/463b90ad-372d-4103-b8cb-71e36c3c8da0.png,2021-01-28T22:04:23+00,2021-01-28T22:04:23+00
+1689778590,1974815518,SubAligner training on Sunday,829834694,"![](https://static.peerboard.com/community-file/222ded5d-3731-4b80-937c-ff5f1bddf1b8_1336_700.jpg)
+
+- Practice sub alignment on real speakers.
+- Learn the 1 method that works every time.
+
+Questions we will answer:
+
+- Which DSP setting should I choose?
+- What are the biggest mistakes to avoid?
+- How I you verify that it's working?
+
+Everyone will get a free copy of the new edition of The complete guide to measurement microphone placement for subwoofer alignment.
+
+[SIGN UP HERE](https://nathanlively.as.me/subaligner-in-the-field)
+
+---
+
+This event is free to attend on Nov 18, but the recordings with only be available to those will a SubAligner Pro subscription. Seating is limited, so please only sign up if you can attend live.
+
+See you there!
+
+-Nathan
+
+---
+
+WHERE: Online and in-person (Virtual Events and Studios by AV For You, 6190 Olson Memorial Hwy, Golden Valley, MN 55422)
+
+WHEN: Sun, Jul 24, 2022 at 9:00am in Minneapolis (7am in LA, 3pm in London)
+
+DURATION: 4 hours. 
+
+TUITION: $0 to attend on July 24.
+
+I'll bring donuts and coffee. You bring your audio analyzer (if you have one) and any other food you might want.",0,07a04d44-5e87-4ace-93e7-dde838335daf_900_472.jpg,https://static.peerboard.com/community-file/07a04d44-5e87-4ace-93e7-dde838335daf_900_472.jpg,2022-07-20T14:31:03+00,2022-07-20T14:31:48+00
+1690664553,420415267,Beta tester invitation,1174804550,"Just wondering if you have created an invitation that you want us moderators to use to invite a select few people in to try out tracebook starting on Wednesday for beta testing?  If not, what exactly do you want us to say in the invitation?",0,,,2020-12-21T23:17:01+00,2020-12-23T11:45:03+00
+1701055187,420415267,Use BBcode in your text,829834694,"I think you can use BBcode anywhere on Tracebook. You can see it now on the [FAQ page,](https://trace-book.org/faq) but I believe you can also use it in comments on pages and anywhere with text.
+
+This is an example of what the codes looks like: `[b]This is in bold[/b] and this is not.`
+
+[Here's a document on it.](https://en.wikipedia.org/wiki/BBCode)",0,,,2020-12-17T21:31:01+00,2020-12-23T11:47:38+00
+1703484976,25721842,Why doesn't a laser work?,829834694,"ADAM: My understanding is that SubAligner works better for crossover alignment than simply measuring the distance offset with a laser disto because SubAligner takes the entire crossover region into account instead of just a single frequency.
+
+NATHAN: Not exactly. If you take a look at the Pre-alignment delay values section of the L-Acoustics Preset Guide, you'll see that you need both the geometric distance offset AND the pre-alignment values. SubAligner works the same way. It finds a pre-alignment that works, then adds the geometric distance offset from your inputs. So it's not so much about what frequency or range of frequencies are used, but combining both the geometric offset and the speaker's native offset. Few speaker combinations are aligned when equidistant so you almost always need the pre-alignment values. Otherwise you're rolling the dice.
+
+ADAM: Right. I think that is the case with Leopard and 900LFC.
+
+NATHAN: What happens when you open that combination in SubAliger?
+
+ADAM: 0.59ms.
+
+NATHAN: Bingo.
+
+([Here's a directly link to that alignment in SubAligner](https://app.subaligner.com/?a=1610556310555x520108685815709700))",0,,,2021-01-13T19:41:05+00,2021-01-13T19:41:05+00
+1704329967,777980920,Our first uploads by Steve,343501240,"Hi Nathan
+
+Two things: 
+
+1) The graph of the measurement isn't showing up in either Chrome or Safari for me.
+
+2) I can't import the CSV for the EON or the NEXO into Smaart, most of the data is missing, and there are asterisks in place of where the numbers should be for Magnitude, Phase & Coherence in the text file (perhaps this is also the reason for issue #1) Probably a failed export on the part of Steve.
+
+----Edit----
+
+OK, the asterisks are caused by the coherence blanking settings in Smaart, anything below the blanking doesn't get written to the text file as data, but as asterisks.  As a note - It should be mentioned in A.6 in the guideliens to set coherence blanking to ""zero"" before doing an ASCII export, when that section gets written.
+
+The CSV import issue was my fault, I wasn't thinking about Smaart requiring tab separated, not comma separated ASCII. Doh!! 
+
+Also, I accidentally posted this as a comment to your original posting, which I thought was an ""admin only"" thread because of the ""admin"" logo at the top. Hmmm......
+
+BTW.... I like my coffee strong!",0,,,2021-01-15T04:23:48+00,2021-01-15T04:24:21+00
+1712777405,308303758,Importing TF data from an image using VirtuixCAD SPL Trace,1732824893,"Hi Everyone
+
+I came across VirtuixCAD SPL trace Tool and made a ""short"" video of how to import Magnitude and Phase data into Smaart from a Spec Sheet or an Image.
+
+Here is the video link:
+
+[https://youtu.be/pklrViGglzA](https://youtu.be/pklrViGglzA)
+
+
+
+I am keen to hear your feedback, criticism and improvement ideas.
+
+
+
+Thanks",0,,,2021-08-03T20:40:46+00,2021-08-03T20:40:46+00
+1719083429,1306687032,ProSoundWeb Articles,829834694,"Accurate Above All: Executing Measurements For Loudspeaker Modeling Files
+
+by Charlie Hughes
+
+[https://www.prosoundweb.com/accurate-above-all-executing-measurements-for-loudspeaker-modeling-files/](https://www.prosoundweb.com/accurate-above-all-executing-measurements-for-loudspeaker-modeling-files/)
+
+
+
+Working In Tandem: Combining Near And Far Field Measurements
+
+by Joe Begin
+
+[https://www.prosoundweb.com/working-in-tandem-combining-near-and-far-field-measurements/](https://www.prosoundweb.com/working-in-tandem-combining-near-and-far-field-measurements/)",0,,,2021-03-12T08:53:29+00,2021-05-20T16:43:20+00
+1730801832,25721842,No presets for TH118?,730983485,I'm looking into purchasing this but my rig consists of driver swapped tops and Danley TH118 subs.  Any idea if there will be an update for the subs?,0,,,2021-09-14T01:38:39+00,2021-09-14T01:38:39+00
+1740226951,25721842,Why do my SubAligner results look wrong??,829834694,"![](https://youtu.be/zIBOxp_YIe8)
+
+The reason that you get different results with different DSP settings in SubAligner is that the DSP settings affect the magnitude and phase response. If you change a filter from 80 to a 100 Hz, the phase will shift, and you're going to need different settings for the alignment.
+
+Feel free to download those traces from SubAligner and come up with your own custom presets. One easy way to get started is to use the SubAligner alignment recommendation and then try apply symmetrical filters. 
+
+Crosslite workshop: [https://www.youtube.com/watch?v=EC5cILzxRUA](https://www.youtube.com/watch?v=EC5cILzxRUA)
+
+Tracebook: [https://trace-book.org/](https://trace-book.org/)",0,,,2022-11-04T19:13:16+00,2022-11-04T19:13:16+00
+1775038650,1643718246,Help us update the measurement procedure,829834694,"Now that you have gone through the process of measurement and upload for Tracebook, share your feedback with us. What was confusing or unclear? What could be simplified or expanded?
+
+The Tracebook measurement procedure is a draft that we would like to continue to improve upon it. Also, I'll be making an FAQ video for Tracebook so tell me what I should include.
+
+For example, I have noticed some confusion about the input calibration procedure and some application specific notes about exporting data from Smaart.
+
+Thanks!",0,,,2021-09-17T15:17:46+00,2021-09-17T15:17:46+00
+1776252702,401419744,Feedback for Karl,829834694,"Karl in Germany has asked me for feedback on these measurements before uploading. They seem fine to me. Thoughts?
+
+3 meter
+
+![](https://static.peerboard.com/community-file/a91a3a63-d1fc-4c78-857c-3887a544633a.png)
+
+4 meter
+
+![](https://static.peerboard.com/community-file/28b3b047-be6b-43b0-95dd-8410f9f41a3a.png)
+
+
+
+![](https://static.peerboard.com/community-file/a2763e22-9d4f-4630-8345-5031bd14f1ee.jpg)",0,0b7b5a8d-908d-4b6c-af76-7b14bd010b89.png,https://static.peerboard.com/community-file/0b7b5a8d-908d-4b6c-af76-7b14bd010b89.png,2021-02-12T17:48:18+00,2021-02-12T17:48:18+00
+1784820102,1053887597,MUST READ: Welcome new members! Learn more about Goesto11,829834694,"## What is Goesto11?
+
+Goesto11 is a community for professional audio engineers and enthusiasts to ask questions, celebrate wins, and support each other in learning.
+
+## Community Guidelines
+
+🙂 Use the golden rule. Participate with genuine curiosity and good intent as though you were talking to your best friend.
+
+🙋‍♂️ Constructive criticism is encouraged. Please present tangible proof to corroborate your claims. Rather than being contentious, we encourage you to present better data or help your fellow users obtain better data.
+
+✅ Use comments and replies to keep like-posts together
+✅ Ask a Moderator for help if you need it
+⛔ Don't self-promote or promote other brands
+⛔ No discrimination or explicit content
+
+## What we Love to See
+
+✅ Posts about your successes and achievements so we can celebrate with you
+✅ Posts about your struggles so we can support you
+✅ Interesting findings that you'd like to share with the community
+✅ Your questions to the community, the more specific the better
+✅ Your suggestions and ideas for Goesto11
+✅ Your support for each other
+
+When posting, think about what value you create for the other members. Help to facilitate interesting and deep discussions.
+
+## What’s the best way to contact Nathan?
+
+Feel free to reach out to Nathan at nathan@trace-book.org or any of the other moderators. We'd be happy to answer your questions!
+
+We're happy you joined Goesto11!
+
+# FAQ
+
+## How to control your notifications
+
+Open your profile. Scroll to the bottom. Click the switches.
+
+## How to change your email address
+
+You can't! If you need to, let me know and I can request the web admin to do it on the backend.
+
+## What happens to my posts if I delete my account?
+
+They will live on, but your profile will say ""deleted"".",0,,,2020-12-13T22:49:49+00,2021-02-25T20:35:21+00
+1798184913,1974815518,"UPDATES: Recall alignments, more accurate results, new speakers",829834694,"I've been hard at work on the most recent updates. [Check'em out!](https://app.subaligner.com/)
+
+## Recall alignments
+
+You asked for it. You got it. With the new Alignments page, you can reload any of your past work. Use the same settings or make updates and changes.
+
+![](https://static.peerboard.com/community-file/7c06b170-696c-4b51-8c19-f2a58b02cd79.png)
+
+## More accurate results
+
+After manually reviewing many results, I have updated the alignment process, which should deliver more robust delay solutions.
+
+## Plot updates
+
+The plot now includes crossover bandwidth, gain offset, and pre-alignment delay.
+
+![](https://static.peerboard.com/community-file/8b451d67-9e93-4335-b419-0dd521dc7bcf.png)
+
+## New speakers
+
+Several new L-Acoustics models were added. The next update will include a bunch of Nexo models. 
+
+## New filter details
+
+The experimental filters pop-up now includes polarity, gain offset, and bandwidth.
+
+Try them out today!",0,0347d24e-9374-41a5-a23f-0ed7668770ac.png,https://static.peerboard.com/community-file/0347d24e-9374-41a5-a23f-0ed7668770ac.png,2021-01-13T04:05:44+00,2021-01-13T04:05:44+00
+1807764927,1643718246,Win a private training with our moderators,829834694,"Get the most approved uploads by March 9 and win a private training with our moderators!
+
+Moderators include Ian Robertson, César Lamschtein, and Arthur Skudra, plus a special guest. Read more about them on our [About](https://trace-book.org/about) page.
+
+Keep track of your rank on the new Leaderboard. Total approved uploads are recalculated with each new upload.
+
+![](https://static.peerboard.com/community-file/79956778-1505-4200-846a-b62601eb19b8.png)",0,e43a9e64-852c-4e4f-a571-c165cb264bd1.png,https://static.peerboard.com/community-file/e43a9e64-852c-4e4f-a571-c165cb264bd1.png,2021-02-09T23:39:55+00,2021-02-09T23:39:55+00
+1854998186,1643718246,Change Log 3/8/21,829834694,"- Leaderboard shows only users who have at least 1 approved upload.
+- A measurement's status is set to Pending any time it is moderated and moderator 1 and moderator 2 do not yet agree.
+- Marking a measurement as Incomplete will now trigger a pop-up instead of immediately navigating to the measurement page.
+- Admin page now includes a button to copy measurement page link to clipboard.",0,,,2021-03-08T15:48:25+00,2021-03-08T15:48:25+00
+1860374834,1306687032,AES Papers,829834694,"Low-Frequency Loudspeaker Assessment by Nearfield Sound-Pressure Measurement
+
+by Keele, Jr., D. B. (Don)
+
+[https://www.aes.org/e-lib/browse.cfm?elib=2774](https://www.aes.org/e-lib/browse.cfm?elib=2774)
+
+
+
+Ground Plane Acoustic Measurement of Loudspeaker Systems
+
+by Gander, Mark R.
+
+[https://www.aes.org/e-lib/browse.cfm?elib=3812](https://www.aes.org/e-lib/browse.cfm?elib=3812)
+
+
+
+Simulated Free Field Measurements
+
+by Struck, Christopher J. and Temme, Steve F.
+
+[https://www.aes.org/e-lib/browse.cfm?elib=6937](https://www.aes.org/e-lib/browse.cfm?elib=6937)",0,,,2021-03-12T08:50:34+00,2021-05-20T16:43:32+00
+1864344947,401419744,Using averages for better HF?,829834694,"A couple of questions came up while preparing for my workshop on Saturday:
+
+- Any reason to work in max SPL to my workshop? Does it make sense to perform a max SPL test on your speakers once a year to make sure they are still performing to spec?
+
+- Since it can be difficult to capture HF outdoors, would it be acceptable to create an average from several measurements?",0,,,2022-06-27T22:19:36+00,2022-06-27T22:19:36+00
+1880212225,25721842,What Danley models do you need in SubAligner?,829834694,Kyle has offered to measure some Danley models for us. What do you need?,0,,,2022-04-06T18:55:17+00,2022-04-06T18:55:17+00
+1880893357,1974815518,SubAligner Speaker Request,829834694,Is there a specific speaker model you'd like me to include in the database? Comment below.,0,,,2020-12-24T15:48:11+00,2020-12-24T15:48:11+00
+1893911001,1974815518,"RCF HDL30, 28, 26",829834694,"New Speakers!
+
+- RCF: HDL30-A, HDL 28-A, HDL 26-A, HD 10-A, NXL 44-A, NX 32-A, NX 15-SMA, NX 12-SMA, 708-AS II, 9006-AS, 8003-AS II, 905-AS II. Thanks so much to Alex at Montana Pro Audio for measuring all of these! Attached is an image comparing results from SubAligner with those from the RCF Pre-Alignment Delays Guide.
+- Behringer: DR112 DSP, B1220
+- EV SXA-360
+- Mackie SWA1801z
+
+
+
+Change Log 12.16.22
+
+- You can now delete individual or all records in your history.
+
+- New users are invited to an onboarding session during registration.
+
+
+
+![](https://static.peerboard.com/community-file/0ed3293d-c5ec-4ed0-8cb0-49c86b5bfc29_1060_1348.png)",0,140c4406-9d03-4c94-bbdf-db72c58b8d9f_708_900.png,https://static.peerboard.com/community-file/140c4406-9d03-4c94-bbdf-db72c58b8d9f_708_900.png,2022-12-16T20:32:13+00,2022-12-16T20:32:13+00
+1928755224,1643718246,"Changelog 12.5.21 (Polarity, Delay)",829834694,"- Added option NA to Coherence Scale field on Upload page to accommodate non-real time audio analyzers like REW.
+- Phase graph: User can invert polarity, adjust t=0, and coherence blanking. There's also a slider to adjust coherence blanking on the Magnitude graph. A known bug is that the slider does not adjust its height to follow user updates to coherence y-axis height. Big thanks to Marcus Painter for his assistance with these updates.
+- Crosshairs are now visible on mouseover on both magnitude and phase graphs.
+
+As always, if you have suggestions or request, please comment on this post or add them to the [Tracebook Feature request post](https://goesto11.peerboard.com/post/619530269).
+
+![](https://static.peerboard.com/community-file/5e3db5a8-6c39-40f8-81fe-3d223b67b50a.png)
+
+
+
+![](https://youtu.be/6HIbLVW_7vM)",0,43808811-9ec2-4ee8-8779-e72530d807d6.png,https://static.peerboard.com/community-file/43808811-9ec2-4ee8-8779-e72530d807d6.png,2021-12-05T21:55:09+00,2021-12-05T21:55:09+00
+1975059380,420415267,me.com emails blocked,829834694,"If you have a me.com email address, Apple is blocking emails from Tracebook. I am in contact with Sendgrid to resolve this. Because we are on a free shared IP plan with Sendgrid, we got lucky and have shared an IP address with a real life spammer. 
+
+Here's what I got from Sendgrid:
+
+> Thank you for contacting support. We want to assure you that we're working closely with Spamhaus to resolve the addresses listed on their site and lift any blocks. We're making progress and communicating with Spamhaus on daily basis. There's a good chance that this blocklisting may already have been resolved.
+
+> We appreciate how this could be frustrating but please know that Spamhaus will only communicate with our internal Twilio SendGrid teams regarding delisting.
+
+> Thank you for your patience while we work with Spamhaus to resolve this situation, and please let us know if there is anything else we can help with.
+
+Meanwhile, maybe a workaround is to use an alternative email address.",0,,,2020-12-22T15:12:59+00,2020-12-22T15:12:59+00
+2057131707,1643718246,Change log 3/21/21,829834694,"- New upload form section called Environment & conditions with optional fields to help the user asses their measurement conditions.
+- Removed the leaderboard.
+- Fixed a bug with emailing everyone involved in moderator comments.
+- Processing preset is now visible in title on index page.
+- IR, Magnitude, and Phase graphs all have matching height.
+- IR graph will hide if no IR file is present.",0,,,2021-03-21T21:06:58+00,2021-03-21T21:06:58+00
+2058146392,420415267,Please moderate pending Coda,829834694,"Kalle emailed me to ask why some Coda speakers still are pending. 
+
+[AiRAY](https://trace-book.org/measurement/coda-audio-airay-airay-2-way-) - I believe this should be marked as incomplete. The phase wraps in the low-mids make it inactionable.
+
+[ViRAY](https://trace-book.org/measurement/coda-audio-viray-viray-2-way-) - fine with me
+
+@Merlijn [TiRAY](https://trace-book.org/measurement/coda-audio-tiray-top-tiray-1-way-fullrange) - Looks fine to me now. Let me know if you still have a problem with it.",0,,,2021-04-25T22:19:46+00,2021-04-25T22:19:46+00
+2064807152,2066759160,Open Sound Meter,1347604227,"Tips and trics for using OSM to take measurement for Tracebook
+
+- To export a trace, first store a measurment. Feel free to add to the comments the info that Tracebook needs for later reference. Then click on ""Save data as"" and select ""txt"".
+- Before an exported trace can be uploaded run this command on macOS or Linux in a terminal: ""sed 's/\t/,/g' TRACE.txt > TRACE.csv"" while replacing ""TRACE"" with the actual name of your exported file. Then the import into Tracebook will work.
+- Can someone recommend the best measurement settings for taking Tracebook measurements with OSM? I'm currently using LPF averaging at 0.25 Hz, Power 14 window size and Hann window function.",0,,,2021-11-27T14:27:49+00,2021-11-27T14:27:49+00
+2065368433,1643718246,Change Log 9/30/22,829834694,"- The loudspeaker search field on the homepage now searches measurement titles instead of slugs. I could replace this entirely with the same search functionality as you find on the Search page, but I think most people will prefer a faster lighter search on the homepage and then will navigate to the Search page for a more robust search.
+- Measurement pages now include a Related Measurements section on the right column making it easier to compare other measurements of the same model.
+- Several bugs were fixed.",0,,,2022-09-30T22:51:14+00,2022-09-30T22:51:14+00
+2076273749,1974815518,Change log 4/22/21,829834694,"Big thanks to Kalle for uploading so many Coda Audio measurements to Tracebook. They are all now available in [SubAligner](https://app.subaligner.com/?a=1619103429477x525666968851972100). Plus,
+
+- 1:1 Matched Reference fixed
+- Add new speaker - If you choose **ADD NEW** in the dropdown menu in SubAligner you will be navigated to [https://trace-book.org/upload](https://trace-book.org/upload) where you can upload new speaker measurement. If you don't have a Tracebook login, yet, just message me.
+- Pop-up to convert ms to m/ft - During a couple of test session with Steve in Athens I realized that some output delays are limited to distance units. If you find yourself in this situation you can now easily convert SubAligner results from milliseconds to feet and meters by opening the Limits pop-up.
+
+
+
+![](https://static.peerboard.com/community-file/61793eb3-ebff-4fca-9603-31104d3e5d3c.png)",0,82d5aa20-0b2f-478f-90a3-5e73cbef3666.png,https://static.peerboard.com/community-file/82d5aa20-0b2f-478f-90a3-5e73cbef3666.png,2021-04-22T14:58:03+00,2021-04-22T14:58:11+00
+2084535944,1974815518,SubAligner: Filters window updated,829834694,"The updated filters windows has a cleaner look and allows you to filter the list of filters by filter name. 
+
+
+
+![](https://youtu.be/ODD0SVTUtP0)",0,,,2022-08-25T23:17:07+00,2022-08-25T23:17:07+00
+2101232348,1974815518,SubAligner Change Log 8.27.22,829834694,"**New speakers** 
+
+- d&b XSL8, XSL12
+- Danley SH46
+- EAW SB600e
+- EV QRX 115, QRX 112, ELX115P, SxA250, ETX-15P
+- JBL SRX835, SRX728S
+- QSC KW153, KW122, KS118, KS112
+
+**Features**
+
+- Pop-up with processing preset information for some presets.
+- Filters pop-up is more organized and can be filtered by filter name.
+
+
+
+![](https://static.peerboard.com/community-file/22ea8ab9-5da3-4663-8fa7-6f8c6e1c7137_949_316.png)",0,0481a6db-1668-421c-990e-32e8371d6efc_900_300.png,https://static.peerboard.com/community-file/0481a6db-1668-421c-990e-32e8371d6efc_900_300.png,2022-08-27T21:05:11+00,2022-08-27T21:05:11+00
+2102290828,420415267,Let's plan our next online event,829834694,"Last month I proposed that we produce another online event in March. Do you still want to do that?
+
+I'm in, but it would need to be before March 17. How about the 9th or 11th at 11am Central time for 90 minutes?
+
+Topic? I'd like to talk for 15 minutes about using Tracebook to research phase compatibility. Maybe we could each demo a use case?
+
+What do you think?",0,,,2022-02-18T21:59:24+00,2022-02-18T21:59:24+00
+2117929442,1974815518,Speaker distance incorporated into filter recommendations,829834694,"The filter recommendations pop-up in SubAligner now incorporates the geometric distance offset between Main and Sub speakers. This way, if you choose to try one of the filter recommendations, the new total output delay you need is also given.
+
+
+
+![](https://static.peerboard.com/community-file/aa6a475e-2271-45d6-830d-7b6df2e7af4f.png)",0,24f8783d-4ba9-4c5c-a94f-ed6828f2d7e1.png,https://static.peerboard.com/community-file/24f8783d-4ba9-4c5c-a94f-ed6828f2d7e1.png,2021-01-28T00:41:34+00,2021-01-28T00:41:34+00
+2124772093,420415267,Change Log  [internal],829834694,"# 2/5/21
+
+- Measurement Title: The title is the combination of the brand and model. Since the fields on the Upload page or auto-binding, I told you that you could change the speaker model, then simply navigate away from the page. This was wrong. You must always click the Submit button so that any changes you made to the brand or model will be incorporated into the title. Moving forward, it's best practice to always click the Submit button after making changes to a measurement.
+- Creation on and modified on dates can now be seen in the Moderate group on the Admin page.
+- Admin activity: The log now shows both moderator and user comments, allowing us to keep watch over all activity. Comments are now linked. If you delete your comment on the measurement page, it will delete from the activity log. Another nice feature is that you can click on a comment in the activity log and it will take you to that page. Previously there was no way to know where the comment was made.
+- Moderator comments can now be seen by every moderator on every measurement page.
+- Updated FAQ with link the privacy and terms of service.
+- Measurement procedure overview video added to Upload page.",0,,,2021-02-06T00:53:17+00,2021-02-06T00:53:17+00
+2127215490,308303758,FAQ - September 2021,829834694,"Over the last few months I've been responding to a lot of questions about Tracebook and I'd like to share some of the most common here today.
+
+Everything that I'm going to cover is contained in the [Tracebook Measurement Procedure](https://goesto11.peerboard.com/post/928726115) and our [Getting Started video series](https://www.youtube.com/playlist?list=PLsfnoBcHUm222UrwdC6zXS2cA-KQCcOQ1).
+
+Before I get started I want to give a big shout out and thank you to everyone who has been taking measurements for Tracebook and especially [Hui-Yu Huang](https://trace-book.org/profile/hui-yu-huang) who has been working with me diligently to solve various issues.
+
+- Input calibration: Fresh battery in the mic calibrator. Use all of our recommended settings. Output levels must match. If reference branch input level is still too high adjust output sensitivity or use a different reference level. Signal generator level may be adjust from within your audio analyzer afterwards because that won't affect the unity state.
+- Amp gain: Amplifier levels need to be documented. We realize that if a system is overpowered that you might want to decrease amplifier gain to improve SNR.
+- Aim: If your VHF has a strange/steep slope up or down that deviates significantly from manufacturer documentation there may be an issue. Compare your measurement to manufacturer documentation, another Tracebook upload, or put the speaker on a stand and measure from 1m. Carpet may be a problem!
+- Smaart export: Disable coherence blanking and smoothing.
+
+
+
+![](https://youtu.be/TGJ942evCSc)",0,,,2021-09-28T14:40:00+00,2021-09-28T16:15:08+00
+2128027077,25721842,What to do when you can't hear the results?,829834694,"I've been struggling to figure out what to tell people when SubAligner obviously works at ground-plane, but seems to fail at head-height.
+
+Here's what I'm thinking:
+
+If you can’t hear the improvement
+
+	1.	Did you enter the distances and distance unit correct? (very common!)
+
+	2.	Did you enter the output settings correct in your DSP?
+
+	3.	Did you accidentally leave any filters in the signal chain or anything else that could cause phase shift?
+
+## Listening
+
+Sub alignment inside is hard! Reflections are guaranteed to screw things up. I have some tips, but unless you can clearly validate a better alignment with your audio analyzer, I still recommend using the SubAligner results. At the end of the day, aligning to direct sound will provide a better global alignment for your audience.
+
+If you can’t hear an improvement at your FOH position then it is likely overwhelmed with reflections. Try moving your alignment/listening position to 3/4 depth and at least 3m away from any walls.
+
+If your listening depth is within 1/5 of the speaker height, you may mislead by a floor bounce. You can try moving deeper or even listening at ground plane, but I recommend walking the room in an attempt to compare result in aggregate.
+
+If a reflection is ruining your FOH alignment, DO NOT ALIGN TO THE REFLECTION. The reflection will likely be attenuated by the audience and will become insignificant at five times the speaker height.",0,,,2021-03-11T01:02:38+00,2021-03-11T01:02:38+00
+2133685533,420415267,Private training for contest winners Apr21,829834694,"The meeting for the contest winners is schedule for April 21 at 9am Central Time. So far the attendees are Nathan and Ian and the three contest winners. If you are able to attend, please comment or contact Nathan and he'll add you to the calendar invite.",0,,,2021-04-13T19:28:19+00,2021-04-13T19:28:19+00
